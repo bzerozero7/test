@@ -38,11 +38,31 @@
         <mxCell id="FXvvX26UyNrnhAL5f0EQ-17" value="跳转到home页面&lt;div&gt;并展示餐桌信息&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="1">
           <mxGeometry x="260" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FXvvX26UyNrnhAL5f0EQ-19" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="FXvvX26UyNrnhAL5f0EQ-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FXvvX26UyNrnhAL5f0EQ-19" target="FXvvX26UyNrnhAL5f0EQ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FXvvX26UyNrnhAL5f0EQ-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FXvvX26UyNrnhAL5f0EQ-19" target="FXvvX26UyNrnhAL5f0EQ-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FXvvX26UyNrnhAL5f0EQ-26" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FXvvX26UyNrnhAL5f0EQ-24">
+          <mxGeometry x="-0.16" y="6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FXvvX26UyNrnhAL5f0EQ-19" value="餐桌是否空闲" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="270" y="540" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="FXvvX26UyNrnhAL5f0EQ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FXvvX26UyNrnhAL5f0EQ-17" target="FXvvX26UyNrnhAL5f0EQ-19">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FXvvX26UyNrnhAL5f0EQ-21" value="空闲" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="440" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FXvvX26UyNrnhAL5f0EQ-23" value="占用" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="260" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FXvvX26UyNrnhAL5f0EQ-25" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="568" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
