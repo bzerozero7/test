@@ -64,6 +64,73 @@
         <mxCell id="FXvvX26UyNrnhAL5f0EQ-25" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="380" y="568" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="FXvvX26UyNrnhAL5f0EQ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FXvvX26UyNrnhAL5f0EQ-27" target="FXvvX26UyNrnhAL5f0EQ-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FXvvX26UyNrnhAL5f0EQ-27" value="退桌逻辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FXvvX26UyNrnhAL5f0EQ-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FXvvX26UyNrnhAL5f0EQ-28" target="FXvvX26UyNrnhAL5f0EQ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FXvvX26UyNrnhAL5f0EQ-28" value="点击退桌" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FXvvX26UyNrnhAL5f0EQ-30" value="发起退桌请求到后端&lt;div&gt;后端更改信息&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FXvvX26UyNrnhAL5f0EQ-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FXvvX26UyNrnhAL5f0EQ-32" target="FXvvX26UyNrnhAL5f0EQ-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FXvvX26UyNrnhAL5f0EQ-38" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FXvvX26UyNrnhAL5f0EQ-35">
+          <mxGeometry x="-0.207" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FXvvX26UyNrnhAL5f0EQ-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FXvvX26UyNrnhAL5f0EQ-32" target="FXvvX26UyNrnhAL5f0EQ-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FXvvX26UyNrnhAL5f0EQ-39" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FXvvX26UyNrnhAL5f0EQ-37">
+          <mxGeometry x="0.0584" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FXvvX26UyNrnhAL5f0EQ-32" value="&lt;div&gt;判断请求成功&lt;/div&gt;res.code===&#39;200&#39;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-645" y="540" width="150" height="157" as="geometry" />
+        </mxCell>
+        <mxCell id="FXvvX26UyNrnhAL5f0EQ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FXvvX26UyNrnhAL5f0EQ-30" target="FXvvX26UyNrnhAL5f0EQ-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FXvvX26UyNrnhAL5f0EQ-34" value="退桌失败" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="588.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FXvvX26UyNrnhAL5f0EQ-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FXvvX26UyNrnhAL5f0EQ-36" target="FXvvX26UyNrnhAL5f0EQ-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FXvvX26UyNrnhAL5f0EQ-36" value="加载餐桌信息" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FXvvX26UyNrnhAL5f0EQ-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FXvvX26UyNrnhAL5f0EQ-40" target="FXvvX26UyNrnhAL5f0EQ-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FXvvX26UyNrnhAL5f0EQ-40" value="清空订单" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FXvvX26UyNrnhAL5f0EQ-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FXvvX26UyNrnhAL5f0EQ-42" target="FXvvX26UyNrnhAL5f0EQ-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FXvvX26UyNrnhAL5f0EQ-42" value="清空localstorage canteen-table" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FXvvX26UyNrnhAL5f0EQ-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FXvvX26UyNrnhAL5f0EQ-44" target="FXvvX26UyNrnhAL5f0EQ-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FXvvX26UyNrnhAL5f0EQ-44" value="强制刷新餐桌" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FXvvX26UyNrnhAL5f0EQ-46" value="退桌成功" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
