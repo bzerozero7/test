@@ -140,11 +140,81 @@
         <mxCell id="FXvvX26UyNrnhAL5f0EQ-46" value="退桌成功" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-630" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YKNv07Idld9gK1rEMbDj-1" target="YKNv07Idld9gK1rEMbDj-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YKNv07Idld9gK1rEMbDj-1" value="SpringBoot全部餐品" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="810" y="420" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YKNv07Idld9gK1rEMbDj-4" target="YKNv07Idld9gK1rEMbDj-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YKNv07Idld9gK1rEMbDj-4" value="Flask推荐餐品" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1019" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YKNv07Idld9gK1rEMbDj-7" target="YKNv07Idld9gK1rEMbDj-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-7" value="点击&quot;点餐&quot;&lt;div&gt;addToOrder(food)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="909" y="588.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YKNv07Idld9gK1rEMbDj-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="969" y="951.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-15" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YKNv07Idld9gK1rEMbDj-14">
+          <mxGeometry x="-0.2262" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YKNv07Idld9gK1rEMbDj-11" target="YKNv07Idld9gK1rEMbDj-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-18" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YKNv07Idld9gK1rEMbDj-17">
+          <mxGeometry x="0.0704" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-11" value="判断food.id是否存在" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="909" y="734.25" width="120" height="111.5" as="geometry" />
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-16" value="报错" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1109" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YKNv07Idld9gK1rEMbDj-19" target="YKNv07Idld9gK1rEMbDj-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-22" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YKNv07Idld9gK1rEMbDj-21">
+          <mxGeometry x="0.0603" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YKNv07Idld9gK1rEMbDj-19" target="YKNv07Idld9gK1rEMbDj-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-25" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YKNv07Idld9gK1rEMbDj-24">
+          <mxGeometry x="0.0278" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-19" value="判断订单中食物是否存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="884" y="950" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YKNv07Idld9gK1rEMbDj-20" target="YKNv07Idld9gK1rEMbDj-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-20" value="在订单中加入食物" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1159" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YKNv07Idld9gK1rEMbDj-23" target="YKNv07Idld9gK1rEMbDj-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-23" value="增加原本食物的数量" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="909" y="1210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-26" value="更新食物价格和食物数量" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1159" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
