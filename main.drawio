@@ -225,6 +225,94 @@
         <mxCell id="YKNv07Idld9gK1rEMbDj-31" value="直接置setOrderList为空" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1250" y="270" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YKNv07Idld9gK1rEMbDj-33" target="YKNv07Idld9gK1rEMbDj-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-33" value="退桌逻辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YKNv07Idld9gK1rEMbDj-34" target="YKNv07Idld9gK1rEMbDj-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-34" value="发起退桌请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YKNv07Idld9gK1rEMbDj-36" target="YKNv07Idld9gK1rEMbDj-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-43" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YKNv07Idld9gK1rEMbDj-40">
+          <mxGeometry x="-0.1879" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YKNv07Idld9gK1rEMbDj-36" target="YKNv07Idld9gK1rEMbDj-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-44" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YKNv07Idld9gK1rEMbDj-42">
+          <mxGeometry x="-0.2281" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-36" value="判断code是否等于200" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="395" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-39" value="报错" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YKNv07Idld9gK1rEMbDj-41" target="YKNv07Idld9gK1rEMbDj-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-41" value="重新加载操作信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YKNv07Idld9gK1rEMbDj-45" target="YKNv07Idld9gK1rEMbDj-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-45" value="清空订单" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YKNv07Idld9gK1rEMbDj-47" target="YKNv07Idld9gK1rEMbDj-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-47" value="删除本地存储canteen-table" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YKNv07Idld9gK1rEMbDj-49" target="YKNv07Idld9gK1rEMbDj-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-49" value="强制刷新餐桌" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-51" value="退桌成功" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YKNv07Idld9gK1rEMbDj-53" target="YKNv07Idld9gK1rEMbDj-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-53" value="强制刷新餐桌逻辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YKNv07Idld9gK1rEMbDj-54" target="YKNv07Idld9gK1rEMbDj-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-54" value="request查询所有" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YKNv07Idld9gK1rEMbDj-56" target="YKNv07Idld9gK1rEMbDj-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YKNv07Idld9gK1rEMbDj-56" target="YKNv07Idld9gK1rEMbDj-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-56" value="给餐桌table赋值&lt;div&gt;返回的数据或者空&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-58" value="结束" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YKNv07Idld9gK1rEMbDj-60" value="报错" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
