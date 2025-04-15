@@ -402,12 +402,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EA8qTUzmmzwKFeUUfKse-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EA8qTUzmmzwKFeUUfKse-13" target="EA8qTUzmmzwKFeUUfKse-15">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="EA8qTUzmmzwKFeUUfKse-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EA8qTUzmmzwKFeUUfKse-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-680" y="2320" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="EA8qTUzmmzwKFeUUfKse-12" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EA8qTUzmmzwKFeUUfKse-11">
-          <mxGeometry x="0.0286" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="EA8qTUzmmzwKFeUUfKse-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EA8qTUzmmzwKFeUUfKse-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-470" y="2320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EA8qTUzmmzwKFeUUfKse-13" value="是否验证通过?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
@@ -416,8 +418,25 @@
         <mxCell id="EA8qTUzmmzwKFeUUfKse-14" value="提示错误，重新登录" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-455" y="2095" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EA8qTUzmmzwKFeUUfKse-15" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="2260" width="120" height="60" as="geometry" />
+        <mxCell id="EA8qTUzmmzwKFeUUfKse-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EA8qTUzmmzwKFeUUfKse-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-680" y="2460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EA8qTUzmmzwKFeUUfKse-18" value="用户首页:餐桌展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="2320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EA8qTUzmmzwKFeUUfKse-19" value="管理员首页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="2320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EA8qTUzmmzwKFeUUfKse-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EA8qTUzmmzwKFeUUfKse-22" target="EA8qTUzmmzwKFeUUfKse-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EA8qTUzmmzwKFeUUfKse-22" value="点击&quot;开始点餐&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="2460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EA8qTUzmmzwKFeUUfKse-23" value="浏览菜单/查看推荐菜品" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-745" y="2590" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
