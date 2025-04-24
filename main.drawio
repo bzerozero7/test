@@ -968,6 +968,9 @@
         <mxCell id="ncxwqyv7L2hA_5HRfyBo-6" value="&lt;div&gt;用&lt;/div&gt;&lt;div&gt;户&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
           <mxGeometry x="383" y="130" width="30" height="115" as="geometry" />
         </mxCell>
+        <mxCell id="ncxwqyv7L2hA_5HRfyBo-7" value="个&lt;div&gt;人&lt;/div&gt;&lt;div&gt;资&lt;/div&gt;&lt;div&gt;料&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="430" y="130" width="30" height="115" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
