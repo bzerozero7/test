@@ -969,10 +969,10 @@
           <mxGeometry x="383" y="130" width="30" height="115" as="geometry" />
         </mxCell>
         <mxCell id="ncxwqyv7L2hA_5HRfyBo-7" value="个&lt;div&gt;人&lt;/div&gt;&lt;div&gt;资&lt;/div&gt;&lt;div&gt;料&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
-          <mxGeometry x="430" y="130" width="30" height="115" as="geometry" />
+          <mxGeometry x="420" y="130" width="30" height="115" as="geometry" />
         </mxCell>
         <mxCell id="kM4wwXbEcWPWXA1v4tJ_-1" value="A&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;I&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;问&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;答&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
-          <mxGeometry x="480" y="130" width="30" height="115" as="geometry" />
+          <mxGeometry x="470" y="130" width="30" height="115" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
