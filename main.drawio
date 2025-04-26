@@ -1313,10 +1313,45 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LPacm5gmPKkLaouhbO8u" name="餐桌E-R图">
-    <mxGraphModel dx="1213" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="837" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="F7Xr2NDxrcCEKtl3UrqV-1" value="餐桌" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F7Xr2NDxrcCEKtl3UrqV-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="F7Xr2NDxrcCEKtl3UrqV-3" target="F7Xr2NDxrcCEKtl3UrqV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F7Xr2NDxrcCEKtl3UrqV-3" value="&lt;u&gt;ID&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="170" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F7Xr2NDxrcCEKtl3UrqV-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="F7Xr2NDxrcCEKtl3UrqV-5" target="F7Xr2NDxrcCEKtl3UrqV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F7Xr2NDxrcCEKtl3UrqV-5" value="餐桌号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="264" y="110" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F7Xr2NDxrcCEKtl3UrqV-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="F7Xr2NDxrcCEKtl3UrqV-7" target="F7Xr2NDxrcCEKtl3UrqV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F7Xr2NDxrcCEKtl3UrqV-7" value="规格" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="70" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F7Xr2NDxrcCEKtl3UrqV-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="F7Xr2NDxrcCEKtl3UrqV-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F7Xr2NDxrcCEKtl3UrqV-12" value="是否空闲" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="100" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F7Xr2NDxrcCEKtl3UrqV-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="F7Xr2NDxrcCEKtl3UrqV-14" target="F7Xr2NDxrcCEKtl3UrqV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F7Xr2NDxrcCEKtl3UrqV-14" value="使用人ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="170" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
