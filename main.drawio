@@ -1050,10 +1050,10 @@
         <mxCell id="cthLTeowwPi58L26Jze4-1" value="订&lt;div&gt;单&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
           <mxGeometry x="370" y="130" width="30" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="7C1C5FsmlpY31Lj5qPQ_-1" value="在&lt;div&gt;线&lt;/div&gt;&lt;div&gt;点&lt;/div&gt;&lt;div&gt;餐&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
+        <mxCell id="7C1C5FsmlpY31Lj5qPQ_-1" value="全&lt;div&gt;部&lt;/div&gt;&lt;div&gt;餐&lt;/div&gt;&lt;div&gt;品&lt;/div&gt;&lt;div&gt;展&lt;/div&gt;&lt;div&gt;示&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
           <mxGeometry x="290" y="300" width="30" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="7C1C5FsmlpY31Lj5qPQ_-4" value="在&lt;div&gt;线&lt;/div&gt;&lt;div&gt;点&lt;/div&gt;&lt;div&gt;餐&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
+        <mxCell id="7C1C5FsmlpY31Lj5qPQ_-4" value="推&lt;div&gt;荐&lt;/div&gt;&lt;div&gt;菜&lt;/div&gt;&lt;div&gt;品&lt;/div&gt;&lt;div&gt;展&lt;/div&gt;&lt;div&gt;示&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
           <mxGeometry x="345" y="300" width="30" height="115" as="geometry" />
         </mxCell>
       </root>
