@@ -1030,6 +1030,14 @@
         <mxCell id="JXvqo2f66n-8gfAH1rp_-10" value="餐&lt;div&gt;桌&lt;/div&gt;&lt;div&gt;展&lt;/div&gt;&lt;div&gt;示&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=north;" parent="1" vertex="1">
           <mxGeometry x="270" y="130" width="30" height="115" as="geometry" />
         </mxCell>
+        <mxCell id="7C1C5FsmlpY31Lj5qPQ_-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1" source="JXvqo2f66n-8gfAH1rp_-11" target="7C1C5FsmlpY31Lj5qPQ_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7C1C5FsmlpY31Lj5qPQ_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="JXvqo2f66n-8gfAH1rp_-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JXvqo2f66n-8gfAH1rp_-11" value="在&lt;div&gt;线&lt;/div&gt;&lt;div&gt;点&lt;/div&gt;&lt;div&gt;餐&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=north;" parent="1" vertex="1">
           <mxGeometry x="320" y="130" width="30" height="115" as="geometry" />
         </mxCell>
@@ -1041,6 +1049,12 @@
         </mxCell>
         <mxCell id="cthLTeowwPi58L26Jze4-1" value="订&lt;div&gt;单&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
           <mxGeometry x="370" y="130" width="30" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="7C1C5FsmlpY31Lj5qPQ_-1" value="在&lt;div&gt;线&lt;/div&gt;&lt;div&gt;点&lt;/div&gt;&lt;div&gt;餐&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="290" y="300" width="30" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="7C1C5FsmlpY31Lj5qPQ_-4" value="在&lt;div&gt;线&lt;/div&gt;&lt;div&gt;点&lt;/div&gt;&lt;div&gt;餐&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="345" y="300" width="30" height="115" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
