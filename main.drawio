@@ -1422,6 +1422,9 @@
         <mxCell id="K_n3LDktrKIis_8eWLKc-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="K_n3LDktrKIis_8eWLKc-9" target="K_n3LDktrKIis_8eWLKc-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="zkR6X1OF-rH2AMOtyGFR-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="K_n3LDktrKIis_8eWLKc-9" target="zkR6X1OF-rH2AMOtyGFR-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="K_n3LDktrKIis_8eWLKc-9" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;direction=west;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="179" y="140" width="80" height="30" as="geometry" />
         </mxCell>
