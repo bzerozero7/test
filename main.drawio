@@ -1605,7 +1605,7 @@
         <mxCell id="AZpxaJPSBtWmp2u0x1kI-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="AZpxaJPSBtWmp2u0x1kI-16" target="AZpxaJPSBtWmp2u0x1kI-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AZpxaJPSBtWmp2u0x1kI-16" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AZpxaJPSBtWmp2u0x1kI-16" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="230" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
