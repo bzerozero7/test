@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.15" pages="18">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.1" pages="18">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="2561" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -621,7 +621,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YQTV7WNEcCHaThyt5CnS" name="修改信息流程图">
-    <mxGraphModel dx="1215" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1213" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -634,7 +634,7 @@
         <mxCell id="Mj4WcI5DJi3Xd9YDwOBV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Mj4WcI5DJi3Xd9YDwOBV-2" target="Mj4WcI5DJi3Xd9YDwOBV-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mj4WcI5DJi3Xd9YDwOBV-2" value="选择要修改的信息类型(餐桌/用户/菜品/顶动感)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Mj4WcI5DJi3Xd9YDwOBV-2" value="选择要修改的信息类型(餐桌/用户/菜品/订单)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="95" y="95" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mj4WcI5DJi3Xd9YDwOBV-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Mj4WcI5DJi3Xd9YDwOBV-4" target="Mj4WcI5DJi3Xd9YDwOBV-16" edge="1">
