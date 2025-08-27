@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
+  <diagram name="第 1 页" id="12lDNata1uda_Yv6zQIy">
+    <mxGraphModel dx="2040" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UZW4BAMpCIpWBq_Jv_QI-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;防火墙&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UZW4BAMpCIpWBq_Jv_QI-2" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;路由器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UZW4BAMpCIpWBq_Jv_QI-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;服务器1&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;(双网卡)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UZW4BAMpCIpWBq_Jv_QI-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;核心交换机&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UZW4BAMpCIpWBq_Jv_QI-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;服务器2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UZW4BAMpCIpWBq_Jv_QI-6" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;服务器3&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UZW4BAMpCIpWBq_Jv_QI-7" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;服务器4&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UZW4BAMpCIpWBq_Jv_QI-8" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;服务器5&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-533" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UZW4BAMpCIpWBq_Jv_QI-9" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;交换机&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
