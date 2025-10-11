@@ -4,53 +4,61 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="w3aKpDxqU9vicH9YZK5F-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w3aKpDxqU9vicH9YZK5F-1" target="w3aKpDxqU9vicH9YZK5F-3">
+        <mxCell id="w3aKpDxqU9vicH9YZK5F-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="w3aKpDxqU9vicH9YZK5F-1" target="w3aKpDxqU9vicH9YZK5F-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w3aKpDxqU9vicH9YZK5F-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;访问公众号，进行缴费&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w3aKpDxqU9vicH9YZK5F-10">
+        <mxCell id="w3aKpDxqU9vicH9YZK5F-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;访问公众号，进行缴费&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="w3aKpDxqU9vicH9YZK5F-10" vertex="1" connectable="0">
           <mxGeometry x="-0.1111" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w3aKpDxqU9vicH9YZK5F-1" value="&lt;font style=&quot;font-size: 18px; color: rgb(255, 255, 255);&quot;&gt;用户&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4472C4;" vertex="1" parent="1">
+        <mxCell id="w3aKpDxqU9vicH9YZK5F-1" value="&lt;font style=&quot;font-size: 18px; color: rgb(255, 255, 255);&quot;&gt;用户&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4472C4;" parent="1" vertex="1">
           <mxGeometry x="120" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w3aKpDxqU9vicH9YZK5F-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="w3aKpDxqU9vicH9YZK5F-3" target="w3aKpDxqU9vicH9YZK5F-5">
+        <mxCell id="w3aKpDxqU9vicH9YZK5F-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="w3aKpDxqU9vicH9YZK5F-3" target="w3aKpDxqU9vicH9YZK5F-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w3aKpDxqU9vicH9YZK5F-3" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;公众号&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4472C4;" vertex="1" parent="1">
+        <mxCell id="w3aKpDxqU9vicH9YZK5F-3" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;公众号&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4472C4;" parent="1" vertex="1">
           <mxGeometry x="120" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w3aKpDxqU9vicH9YZK5F-4" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;元数据中台&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4472C4;" vertex="1" parent="1">
-          <mxGeometry x="414" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="w3aKpDxqU9vicH9YZK5F-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="w3aKpDxqU9vicH9YZK5F-5" target="w3aKpDxqU9vicH9YZK5F-6">
+        <mxCell id="IBm1OYiQYwd--FM1KFJF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w3aKpDxqU9vicH9YZK5F-4" target="w3aKpDxqU9vicH9YZK5F-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w3aKpDxqU9vicH9YZK5F-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;传递所有金额相关信息&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w3aKpDxqU9vicH9YZK5F-13">
+        <mxCell id="IBm1OYiQYwd--FM1KFJF-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;提供缴费信息&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IBm1OYiQYwd--FM1KFJF-1">
+          <mxGeometry x="0.046" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w3aKpDxqU9vicH9YZK5F-4" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;元数据中台&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4472C4;" parent="1" vertex="1">
+          <mxGeometry x="414" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w3aKpDxqU9vicH9YZK5F-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="w3aKpDxqU9vicH9YZK5F-5" target="w3aKpDxqU9vicH9YZK5F-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w3aKpDxqU9vicH9YZK5F-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;传递所有金额相关信息&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="w3aKpDxqU9vicH9YZK5F-13" vertex="1" connectable="0">
           <mxGeometry x="-0.0455" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w3aKpDxqU9vicH9YZK5F-5" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;缴费平台&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4472C4;" vertex="1" parent="1">
+        <mxCell id="w3aKpDxqU9vicH9YZK5F-5" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;缴费平台&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4472C4;" parent="1" vertex="1">
           <mxGeometry x="260" y="440" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="w3aKpDxqU9vicH9YZK5F-6" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;银行&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4472C4;" vertex="1" parent="1">
+        <mxCell id="w3aKpDxqU9vicH9YZK5F-6" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;银行&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4472C4;" parent="1" vertex="1">
           <mxGeometry x="110" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w3aKpDxqU9vicH9YZK5F-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.653;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="w3aKpDxqU9vicH9YZK5F-4" target="w3aKpDxqU9vicH9YZK5F-5">
+        <mxCell id="w3aKpDxqU9vicH9YZK5F-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.653;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" parent="1" source="w3aKpDxqU9vicH9YZK5F-4" target="w3aKpDxqU9vicH9YZK5F-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w3aKpDxqU9vicH9YZK5F-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;提供学生信息等数据&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w3aKpDxqU9vicH9YZK5F-14">
+        <mxCell id="w3aKpDxqU9vicH9YZK5F-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;提供学生信息等数据&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="w3aKpDxqU9vicH9YZK5F-14" vertex="1" connectable="0">
           <mxGeometry x="-0.151" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w3aKpDxqU9vicH9YZK5F-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w3aKpDxqU9vicH9YZK5F-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="440" width="380" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="w3aKpDxqU9vicH9YZK5F-21" value="&lt;div&gt;费用类型&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;详细费用&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;缴费统计&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;学生缴费明细&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;房间类型管理&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;班级管理&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;绿色通道&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;院系管理&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;专业管理&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;缴费平台账单&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;学生信息&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="400" width="490" height="170" as="geometry" />
+        <mxCell id="w3aKpDxqU9vicH9YZK5F-21" value="&lt;div&gt;费用类型&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;详细费用&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;缴费统计&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;学生缴费明细&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;房间类型管理&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;班级管理&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;绿色通道&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;院系管理&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;专业管理&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;缴费平台账单&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;学生信息&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="325" y="410" width="490" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
