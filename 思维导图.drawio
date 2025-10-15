@@ -31,7 +31,7 @@
             <mxPoint x="450" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nDctGN0-oycBQMKMwsl5-4" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;生日面预定&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;餐厅问题返回&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EBEBEB;" parent="1" vertex="1">
+        <mxCell id="nDctGN0-oycBQMKMwsl5-4" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;生日面预定&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;餐厅问题反馈&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EBEBEB;" parent="1" vertex="1">
           <mxGeometry x="690" y="410" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="nDctGN0-oycBQMKMwsl5-5" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;主题&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3659E4;" parent="1" vertex="1">
