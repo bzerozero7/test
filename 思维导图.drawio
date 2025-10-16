@@ -169,10 +169,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wowLJBo5OBE5vU-065UZ-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;生日面预定&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="340" width="100" height="40" as="geometry" />
+          <mxGeometry x="1220" y="360" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wowLJBo5OBE5vU-065UZ-8" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;餐厅问题反馈&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="465" width="100" height="40" as="geometry" />
+          <mxGeometry x="1220" y="510" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dNVaqa3dVQuI3M030Ilr-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=orthogonalEdgeStyle;endArrow=none;endFill=0;strokeColor=#3054E1;jumpStyle=none;curved=1;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vRhz_uA84JF1N8fxo4zS-9" target="dNVaqa3dVQuI3M030Ilr-1">
           <mxGeometry relative="1" as="geometry">
