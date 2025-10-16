@@ -204,6 +204,9 @@
         <mxCell id="dNVaqa3dVQuI3M030Ilr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dNVaqa3dVQuI3M030Ilr-1" target="dNVaqa3dVQuI3M030Ilr-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="dNVaqa3dVQuI3M030Ilr-8" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;河北工业微校园&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="150" width="220" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
