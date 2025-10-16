@@ -112,7 +112,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vRhz_uA84JF1N8fxo4zS-9" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;掌上后勤&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3659E4;" parent="1" vertex="1">
-          <mxGeometry x="150" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="412.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vRhz_uA84JF1N8fxo4zS-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;endArrow=none;endFill=0;strokeColor=#3054E1;jumpStyle=none;curved=1;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dNVaqa3dVQuI3M030Ilr-2" target="vRhz_uA84JF1N8fxo4zS-3" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -121,7 +121,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vRhz_uA84JF1N8fxo4zS-12" value="&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;&quot;&gt;微信公众号&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3659E4;" parent="1" vertex="1">
-          <mxGeometry x="460" y="515" width="190" height="45" as="geometry" />
+          <mxGeometry x="460" y="540" width="190" height="45" as="geometry" />
         </mxCell>
         <mxCell id="vRhz_uA84JF1N8fxo4zS-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;endArrow=none;endFill=0;strokeColor=#3054E1;jumpStyle=none;curved=1;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dNVaqa3dVQuI3M030Ilr-3" target="vRhz_uA84JF1N8fxo4zS-12" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -190,7 +190,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dNVaqa3dVQuI3M030Ilr-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;入口3&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="530" width="60" height="30" as="geometry" />
+          <mxGeometry x="370" y="540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dNVaqa3dVQuI3M030Ilr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
