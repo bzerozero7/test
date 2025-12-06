@@ -11,7 +11,7 @@
           <mxGeometry height="60" width="120" x="10" y="410" as="geometry" />
         </mxCell>
         <mxCell id="ug344ob6cnLxtHDad_KD-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;施工费用&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="200" y="410" as="geometry" />
+          <mxGeometry height="60" width="120" x="180" y="410" as="geometry" />
         </mxCell>
         <mxCell id="ug344ob6cnLxtHDad_KD-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;学校&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="370" y="555" as="geometry" />
@@ -25,7 +25,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ug344ob6cnLxtHDad_KD-5" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;对学校投入的价值&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="110" y="555" as="geometry" />
+          <mxGeometry height="60" width="120" x="90" y="555" as="geometry" />
         </mxCell>
         <mxCell id="je2imHBNNzD7Ke1cWj8m-1" edge="1" parent="1" source="ug344ob6cnLxtHDad_KD-1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ug344ob6cnLxtHDad_KD-2" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="je2imHBNNzD7Ke1cWj8m-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;实际收益&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="380" y="410" as="geometry" />
+          <mxGeometry height="60" width="120" x="370" y="410" as="geometry" />
         </mxCell>
         <mxCell id="je2imHBNNzD7Ke1cWj8m-6" edge="1" parent="1" source="ug344ob6cnLxtHDad_KD-1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="je2imHBNNzD7Ke1cWj8m-5" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
