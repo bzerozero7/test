@@ -17,10 +17,19 @@
           <mxGeometry height="60" width="120" x="590" y="430" as="geometry" />
         </mxCell>
         <mxCell id="KAve0HeQGBxJijMM5pPa-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="线上（云服务器）" vertex="1">
-          <mxGeometry height="60" width="120" x="349" y="610" as="geometry" />
+          <mxGeometry height="60" width="120" x="190" y="770" as="geometry" />
         </mxCell>
         <mxCell id="KAve0HeQGBxJijMM5pPa-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="线下（本地部署服务器）" vertex="1">
-          <mxGeometry height="60" width="120" x="370" y="770" as="geometry" />
+          <mxGeometry height="60" width="120" x="470" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="KAve0HeQGBxJijMM5pPa-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="核心平台" vertex="1">
+          <mxGeometry height="60" width="120" x="210" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="KAve0HeQGBxJijMM5pPa-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="统一平台" vertex="1">
+          <mxGeometry height="60" width="120" x="460" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="KAve0HeQGBxJijMM5pPa-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="服务器" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="640" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
