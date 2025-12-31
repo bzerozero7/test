@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="集团缴费平台逻辑架构" id="tUct0Tt7L2A0E9T9E0Kl">
-    <mxGraphModel dx="1424" dy="1825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1657" dy="1544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,35 +28,29 @@
         <mxCell id="fB8Jnc_Q456nk0Sz9RNi-51" parent="1" style="whiteSpace=wrap;html=1;fillColor=#E1D5E7;" value="订单与支付管理&#xa;（订单 / 退款 / 对账）" vertex="1">
           <mxGeometry height="70" width="180" x="550" y="220" as="geometry" />
         </mxCell>
-        <mxCell id="fB8Jnc_Q456nk0Sz9RNi-69" edge="1" parent="1" source="fB8Jnc_Q456nk0Sz9RNi-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="fB8Jnc_Q456nk0Sz9RNi-54">
+        <mxCell id="kWJaLFfzcWcpyDRIIxIB-14" edge="1" parent="1" source="fB8Jnc_Q456nk0Sz9RNi-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="kWJaLFfzcWcpyDRIIxIB-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kWJaLFfzcWcpyDRIIxIB-14" edge="1" parent="1" source="fB8Jnc_Q456nk0Sz9RNi-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="kWJaLFfzcWcpyDRIIxIB-2">
+        <mxCell id="IPlGKA6S2ziFqPSZ4ml5-1" edge="1" parent="1" source="fB8Jnc_Q456nk0Sz9RNi-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="fB8Jnc_Q456nk0Sz9RNi-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fB8Jnc_Q456nk0Sz9RNi-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;fontStyle=1;" value="中央账户体系（集团级资金中枢）&#xa;统一归集 &#xa;规则分账 &#xa;可追溯 &#xa;可审计" vertex="1">
           <mxGeometry height="80" width="730" x="45" y="340" as="geometry" />
         </mxCell>
         <mxCell id="fB8Jnc_Q456nk0Sz9RNi-53" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;" value="学校子账户" vertex="1">
-          <mxGeometry height="50" width="160" x="120" y="490" as="geometry" />
-        </mxCell>
-        <mxCell id="fB8Jnc_Q456nk0Sz9RNi-71" edge="1" parent="1" source="fB8Jnc_Q456nk0Sz9RNi-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="fB8Jnc_Q456nk0Sz9RNi-56">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry height="50" width="160" x="120" y="560" as="geometry" />
         </mxCell>
         <mxCell id="fB8Jnc_Q456nk0Sz9RNi-54" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;" value="企业子账户" vertex="1">
-          <mxGeometry height="50" width="160" x="330" y="490" as="geometry" />
+          <mxGeometry height="50" width="160" x="330" y="560" as="geometry" />
         </mxCell>
         <mxCell id="fB8Jnc_Q456nk0Sz9RNi-55" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;" value="专项资金账户" vertex="1">
-          <mxGeometry height="50" width="160" x="540" y="490" as="geometry" />
-        </mxCell>
-        <mxCell id="fB8Jnc_Q456nk0Sz9RNi-72" edge="1" parent="1" source="fB8Jnc_Q456nk0Sz9RNi-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="fB8Jnc_Q456nk0Sz9RNi-57">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry height="50" width="160" x="540" y="560" as="geometry" />
         </mxCell>
         <mxCell id="fB8Jnc_Q456nk0Sz9RNi-56" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;" value="清算与分账引擎&#xa;（自动结算 / 周期清算）" vertex="1">
-          <mxGeometry height="60" width="360" x="230" y="600" as="geometry" />
+          <mxGeometry height="60" width="580" x="120" y="460" as="geometry" />
         </mxCell>
         <mxCell id="fB8Jnc_Q456nk0Sz9RNi-57" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;" value="第三方支付渠道&lt;br&gt;微信 / 支付宝 / 银行 / 银联" vertex="1">
-          <mxGeometry height="60" width="360" x="230" y="720" as="geometry" />
+          <mxGeometry height="60" width="250" x="750" y="460" as="geometry" />
         </mxCell>
         <mxCell id="kWJaLFfzcWcpyDRIIxIB-13" edge="1" parent="1" source="kWJaLFfzcWcpyDRIIxIB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="fB8Jnc_Q456nk0Sz9RNi-52">
           <mxGeometry relative="1" as="geometry" />
@@ -107,16 +101,23 @@
         <mxCell id="kWJaLFfzcWcpyDRIIxIB-21" edge="1" parent="1" source="fB8Jnc_Q456nk0Sz9RNi-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.816;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="fB8Jnc_Q456nk0Sz9RNi-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kWJaLFfzcWcpyDRIIxIB-24" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="fB8Jnc_Q456nk0Sz9RNi-55">
+        <mxCell id="IPlGKA6S2ziFqPSZ4ml5-2" edge="1" parent="1" source="fB8Jnc_Q456nk0Sz9RNi-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.126;exitY=0.99;exitDx=0;exitDy=0;entryX=0.458;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" target="fB8Jnc_Q456nk0Sz9RNi-53">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="620" y="420" as="sourcePoint" />
-            <mxPoint x="480" y="520" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="160" y="390" as="sourcePoint" />
+            <mxPoint x="160" y="441" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kWJaLFfzcWcpyDRIIxIB-25" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="fB8Jnc_Q456nk0Sz9RNi-53">
+        <mxCell id="IPlGKA6S2ziFqPSZ4ml5-3" edge="1" parent="1" source="fB8Jnc_Q456nk0Sz9RNi-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="fB8Jnc_Q456nk0Sz9RNi-54">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="420" as="sourcePoint" />
-            <mxPoint x="300" y="520" as="targetPoint" />
+            <mxPoint x="360" y="530" as="sourcePoint" />
+            <mxPoint x="360" y="581" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IPlGKA6S2ziFqPSZ4ml5-4" edge="1" parent="1" source="fB8Jnc_Q456nk0Sz9RNi-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.863;exitY=0.99;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" target="fB8Jnc_Q456nk0Sz9RNi-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="540" as="sourcePoint" />
+            <mxPoint x="590" y="591" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
