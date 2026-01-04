@@ -25,7 +25,7 @@
         <mxCell id="fB8Jnc_Q456nk0Sz9RNi-50" parent="1" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;" value="账单与规则引擎&#xa;（收费规则 / 分账规则）" vertex="1">
           <mxGeometry height="70" width="180" x="320" y="220" as="geometry" />
         </mxCell>
-        <mxCell id="fB8Jnc_Q456nk0Sz9RNi-51" parent="1" style="whiteSpace=wrap;html=1;fillColor=#E1D5E7;" value="订单与支付管理&#xa;（订单 / 退款 / 对账）" vertex="1">
+        <mxCell id="fB8Jnc_Q456nk0Sz9RNi-51" parent="1" style="whiteSpace=wrap;html=1;fillColor=#E1D5E7;" value="订单与支付管理&lt;br&gt;（订单 / 退款 / 对账）&lt;div&gt;支持账单分类和发票数据收集，便于财务开票和税务处理&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="180" x="550" y="220" as="geometry" />
         </mxCell>
         <mxCell id="kWJaLFfzcWcpyDRIIxIB-14" edge="1" parent="1" source="fB8Jnc_Q456nk0Sz9RNi-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="kWJaLFfzcWcpyDRIIxIB-2">
