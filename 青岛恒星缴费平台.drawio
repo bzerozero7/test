@@ -22,7 +22,7 @@
         <mxCell id="kWJaLFfzcWcpyDRIIxIB-20" edge="1" parent="1" source="fB8Jnc_Q456nk0Sz9RNi-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="fB8Jnc_Q456nk0Sz9RNi-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fB8Jnc_Q456nk0Sz9RNi-50" parent="1" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;" value="账单与规则引擎&#xa;（收费规则 / 分账规则）" vertex="1">
+        <mxCell id="fB8Jnc_Q456nk0Sz9RNi-50" parent="1" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;" value="账单与规则引擎&lt;br&gt;（按主体、项目、支付渠道、专项资金配置收费与分账规则，自动计算分账比例）" vertex="1">
           <mxGeometry height="70" width="180" x="320" y="220" as="geometry" />
         </mxCell>
         <mxCell id="fB8Jnc_Q456nk0Sz9RNi-51" parent="1" style="whiteSpace=wrap;html=1;fillColor=#E1D5E7;" value="账单与支付管理&lt;br&gt;（账单 / 退款 / 对账）&lt;div&gt;账单分类和发票数据收集&lt;/div&gt;" vertex="1">
@@ -49,7 +49,7 @@
         <mxCell id="IPlGKA6S2ziFqPSZ4ml5-8" edge="1" parent="1" source="fB8Jnc_Q456nk0Sz9RNi-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="fB8Jnc_Q456nk0Sz9RNi-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fB8Jnc_Q456nk0Sz9RNi-56" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;" value="清算与分账引擎&#xa;（自动结算 / 周期清算）" vertex="1">
+        <mxCell id="fB8Jnc_Q456nk0Sz9RNi-56" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;" value="清算与分账引擎&lt;br&gt;（自动结算 / 周期清算）&lt;div&gt;支持跨渠道退款回溯，保证资金完整性&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="580" x="120" y="460" as="geometry" />
         </mxCell>
         <mxCell id="fB8Jnc_Q456nk0Sz9RNi-57" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;" value="第三方支付渠道&lt;br&gt;微信 / 支付宝 / 银行 / 银联" vertex="1">
