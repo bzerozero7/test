@@ -80,7 +80,7 @@
         <mxCell id="oimXLrWA4ZCCYQlfjAk0-11" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="其它" vertex="1">
           <mxGeometry height="60" width="30" x="240" y="720" as="geometry" />
         </mxCell>
-        <mxCell id="oimXLrWA4ZCCYQlfjAk0-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="统一缴费平台" vertex="1">
+        <mxCell id="oimXLrWA4ZCCYQlfjAk0-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="统一缴费入口" vertex="1">
           <mxGeometry height="60" width="120" x="440" y="540" as="geometry" />
         </mxCell>
         <mxCell id="oimXLrWA4ZCCYQlfjAk0-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="身份认证" vertex="1">
@@ -115,7 +115,7 @@
             <mxPoint x="440" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ew-EoRWOzgBOOuZq_Kre-6" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+        <mxCell id="Ew-EoRWOzgBOOuZq_Kre-6" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Ew-EoRWOzgBOOuZq_Kre-10" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="60" y="330" as="sourcePoint" />
             <mxPoint x="230" y="390" as="targetPoint" />
@@ -125,7 +125,19 @@
           <mxGeometry height="30" width="110" x="70" y="260" as="geometry" />
         </mxCell>
         <mxCell id="Ew-EoRWOzgBOOuZq_Kre-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="通过特定字段交换信息" vertex="1">
-          <mxGeometry height="30" width="80" x="400" y="220" as="geometry" />
+          <mxGeometry height="30" width="80" x="390" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Ew-EoRWOzgBOOuZq_Kre-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="支付宝碰一碰pos机" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="Ew-EoRWOzgBOOuZq_Kre-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="刷码、碰一碰" vertex="1">
+          <mxGeometry height="30" width="100" x="200" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Ew-EoRWOzgBOOuZq_Kre-12" edge="1" parent="1" source="Ew-EoRWOzgBOOuZq_Kre-10" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="Ew-EoRWOzgBOOuZq_Kre-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="370" as="sourcePoint" />
+            <mxPoint x="440" y="320" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
