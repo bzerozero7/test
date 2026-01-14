@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
+  <diagram name="第 1 页" id="zyzwO5Dwt1yOW28jxPlb">
+    <mxGraphModel dx="1453" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JSAIUCDlGUAzYPQakIHx-7" edge="1" parent="1" source="JSAIUCDlGUAzYPQakIHx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="JSAIUCDlGUAzYPQakIHx-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JSAIUCDlGUAzYPQakIHx-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="学生" vertex="1">
+          <mxGeometry height="60" width="30" x="170" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="JSAIUCDlGUAzYPQakIHx-9" edge="1" parent="1" source="JSAIUCDlGUAzYPQakIHx-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="JSAIUCDlGUAzYPQakIHx-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JSAIUCDlGUAzYPQakIHx-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="企业用户" vertex="1">
+          <mxGeometry height="60" width="30" x="170" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="JSAIUCDlGUAzYPQakIHx-11" edge="1" parent="1" source="JSAIUCDlGUAzYPQakIHx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="JSAIUCDlGUAzYPQakIHx-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JSAIUCDlGUAzYPQakIHx-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="职工" vertex="1">
+          <mxGeometry height="60" width="30" x="170" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="JSAIUCDlGUAzYPQakIHx-6" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=top;" value="&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;各自缴费&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="260" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="JSAIUCDlGUAzYPQakIHx-8" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=top;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: medium;&quot;&gt;各自缴费&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="260" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="JSAIUCDlGUAzYPQakIHx-10" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=top;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: medium;&quot;&gt;各自缴费&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="260" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="JSAIUCDlGUAzYPQakIHx-15" edge="1" parent="1" source="JSAIUCDlGUAzYPQakIHx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="JSAIUCDlGUAzYPQakIHx-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JSAIUCDlGUAzYPQakIHx-12" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="其它" vertex="1">
+          <mxGeometry height="60" width="30" x="170" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="JSAIUCDlGUAzYPQakIHx-14" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=top;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: medium;&quot;&gt;各自缴费&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="260" y="530" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
