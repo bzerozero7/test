@@ -433,6 +433,15 @@
         <mxCell id="M3Cv1xvi0O29jNksdNlY-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="支付" vertex="1">
           <mxGeometry height="30" width="70" x="-485" y="410" as="geometry" />
         </mxCell>
+        <mxCell id="M3Cv1xvi0O29jNksdNlY-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=left;strokeColor=#6490FF;" value="&lt;font style=&quot;color: rgb(100, 144, 255);&quot;&gt;微信&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(100, 144, 255);&quot;&gt;支付宝&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(100, 144, 255);&quot;&gt;银联&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="70" x="-400" y="492.5" as="geometry" />
+        </mxCell>
+        <mxCell id="M3Cv1xvi0O29jNksdNlY-40" edge="1" parent="1" source="M3Cv1xvi0O29jNksdNlY-34" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#6490FF;" target="M3Cv1xvi0O29jNksdNlY-39" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-430" y="510" as="sourcePoint" />
+            <mxPoint x="-370.06999999999994" y="652.4" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
