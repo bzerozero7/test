@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.1" pages="7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.1" pages="8">
   <diagram name="第 1 页" id="zyzwO5Dwt1yOW28jxPlb">
     <mxGraphModel dx="1453" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -441,8 +441,49 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Zh8BnyiGHTBEnmC1vDhk" name="第 7 页">
-    <mxGraphModel dx="1213" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="Zh8BnyiGHTBEnmC1vDhk" name="问题">
+    <mxGraphModel dx="1213" dy="1826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RhJgj0pY3aOCZQPzF7_l-14" parent="1" style="shape=cloud;fillColor=#B0C4DE;fontSize=16;fontStyle=1" value="现状缴费体系" vertex="1">
+          <mxGeometry height="80" width="220" x="300" y="-30" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJgj0pY3aOCZQPzF7_l-15" parent="1" style="shape=rectangle;fillColor=#FFA500;fontSize=12;fontStyle=1" value="多主体、多场景收款&#xa;学校、企业、园区独立收款，&#xa;支付渠道分散" vertex="1">
+          <mxGeometry height="80" width="200" x="50" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJgj0pY3aOCZQPzF7_l-16" parent="1" style="shape=rectangle;fillColor=#FF6347;fontSize=12;fontStyle=1" value="用户缴费直接进入各自银行账户&#xa;缺乏统一平台查看流水，分账、&#xa;退款流程复杂" vertex="1">
+          <mxGeometry height="80" width="220" x="300" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJgj0pY3aOCZQPzF7_l-17" parent="1" style="shape=rectangle;fillColor=#1E90FF;fontSize=12;color=#FFFFFF;fontStyle=1" value="跨境支付&#xa;涉及境外支付、多币种结算，&#xa;支付通道覆盖不足，效率低" vertex="1">
+          <mxGeometry height="80" width="220" x="630" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJgj0pY3aOCZQPzF7_l-18" parent="1" style="shape=rectangle;fillColor=#32CD32;fontSize=12;fontStyle=1" value="降低手续费&#xa;现有支付通道手续费高，成本控制难" vertex="1">
+          <mxGeometry height="80" width="220" x="300" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJgj0pY3aOCZQPzF7_l-20" edge="1" parent="1" source="RhJgj0pY3aOCZQPzF7_l-14" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeWidth=2" target="RhJgj0pY3aOCZQPzF7_l-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJgj0pY3aOCZQPzF7_l-21" edge="1" parent="1" source="RhJgj0pY3aOCZQPzF7_l-14" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeWidth=2" target="RhJgj0pY3aOCZQPzF7_l-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJgj0pY3aOCZQPzF7_l-22" edge="1" parent="1" source="RhJgj0pY3aOCZQPzF7_l-14" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeWidth=2" target="RhJgj0pY3aOCZQPzF7_l-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJgj0pY3aOCZQPzF7_l-23" edge="1" parent="1" source="RhJgj0pY3aOCZQPzF7_l-15" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeWidth=2" target="RhJgj0pY3aOCZQPzF7_l-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJgj0pY3aOCZQPzF7_l-24" edge="1" parent="1" source="RhJgj0pY3aOCZQPzF7_l-16" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeWidth=2" target="RhJgj0pY3aOCZQPzF7_l-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RhJgj0pY3aOCZQPzF7_l-25" edge="1" parent="1" source="RhJgj0pY3aOCZQPzF7_l-17" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeWidth=2" target="RhJgj0pY3aOCZQPzF7_l-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="B2JEzHwn55_tQArCoDgh" name="第 8 页">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
