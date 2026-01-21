@@ -786,10 +786,10 @@
           <mxGeometry height="160" width="410" x="150" y="870" as="geometry" />
         </mxCell>
         <mxCell id="AG570xqhZPewRsclF2zV-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="平台" vertex="1">
-          <mxGeometry height="90" width="180" x="570" y="700" as="geometry" />
+          <mxGeometry height="90" width="180" x="600" y="690" as="geometry" />
         </mxCell>
         <mxCell id="AG570xqhZPewRsclF2zV-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="640" y="510" as="geometry" />
+          <mxGeometry height="60" width="120" x="630" y="510" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
