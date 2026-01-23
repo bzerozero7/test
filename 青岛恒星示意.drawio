@@ -894,7 +894,7 @@
           <mxGeometry height="300" width="300" x="220" y="400" as="geometry" />
         </mxCell>
         <mxCell id="lIVQK6YXs1jOi1Qncg1K-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;strokeWidth=4;opacity=80;align=right;perimeterSpacing=0;gradientColor=none;gradientDirection=west;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 18px;&quot;&gt;&lt;b&gt;服务商（建设方）&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;设备供应&lt;/div&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;软件平台建设&lt;/div&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;系统运维&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;支付对接&lt;/div&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;（实现场景落地与实现）&lt;/div&gt;" vertex="1">
-          <mxGeometry height="300" width="300" x="730" y="410" as="geometry" />
+          <mxGeometry height="300" width="300" x="720" y="400" as="geometry" />
         </mxCell>
         <mxCell id="lIVQK6YXs1jOi1Qncg1K-13" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=default;gradientColor=#808080;gradientDirection=radial;strokeColor=none;" value="">
           <mxGeometry height="100" relative="1" width="100" as="geometry">
