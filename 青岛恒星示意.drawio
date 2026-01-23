@@ -887,13 +887,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lIVQK6YXs1jOi1Qncg1K-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#2793D4;strokeColor=#006EAF;fontColor=#ffffff;fillStyle=auto;opacity=80;strokeWidth=4;align=center;gradientColor=none;" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="lIVQK6YXs1jOi1Qncg1K-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#2894D4;strokeColor=#006EAF;fontColor=#ffffff;fillStyle=auto;opacity=80;strokeWidth=4;align=center;gradientColor=none;" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="300" width="300" x="460" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="lIVQK6YXs1jOi1Qncg1K-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;strokeColor=#187236;fontColor=#ffffff;strokeWidth=4;opacity=80;align=center;gradientColor=#519C4F;gradientDirection=east;" value="" vertex="1">
+        <mxCell id="lIVQK6YXs1jOi1Qncg1K-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#529C4F;strokeColor=#187236;fontColor=#ffffff;strokeWidth=4;opacity=80;align=center;gradientColor=none;gradientDirection=east;" value="" vertex="1">
           <mxGeometry height="300" width="300" x="160" y="445" as="geometry" />
         </mxCell>
-        <mxCell id="lIVQK6YXs1jOi1Qncg1K-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;strokeWidth=4;opacity=80;align=center;perimeterSpacing=0;gradientColor=none;gradientDirection=west;" value="" vertex="1">
+        <mxCell id="lIVQK6YXs1jOi1Qncg1K-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F78D28;strokeColor=#BD7000;fontColor=#000000;strokeWidth=4;opacity=80;align=center;perimeterSpacing=0;gradientColor=none;gradientDirection=west;" value="" vertex="1">
           <mxGeometry height="300" width="300" x="760" y="450" as="geometry" />
         </mxCell>
         <mxCell id="lIVQK6YXs1jOi1Qncg1K-13" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=default;gradientColor=#808080;gradientDirection=radial;strokeColor=default;elbow=vertical;entryX=0;entryY=0.567;entryDx=0;entryDy=0;entryPerimeter=0;" target="lIVQK6YXs1jOi1Qncg1K-6" value="">
