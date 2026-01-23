@@ -905,8 +905,8 @@
             <mxPoint x="260" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lIVQK6YXs1jOi1Qncg1K-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;资金与金融能力投入&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="250" x="477.5" y="90" as="geometry" />
+        <mxCell id="lIVQK6YXs1jOi1Qncg1K-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;合作模式图&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="250" x="470" y="100" as="geometry" />
         </mxCell>
         <mxCell id="lIVQK6YXs1jOi1Qncg1K-16" edge="1" parent="1" source="lIVQK6YXs1jOi1Qncg1K-7" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=default;gradientColor=#808080;gradientDirection=radial;strokeColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="lIVQK6YXs1jOi1Qncg1K-8" value="">
           <mxGeometry height="100" relative="1" width="100" as="geometry">
@@ -946,7 +946,7 @@
           <mxGeometry height="30" width="260" x="100" y="330" as="geometry" />
         </mxCell>
         <mxCell id="lIVQK6YXs1jOi1Qncg1K-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;银行 → 学校：投资支持&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="290" x="85" y="360" as="geometry" />
+          <mxGeometry height="30" width="290" x="60" y="360" as="geometry" />
         </mxCell>
         <mxCell id="lIVQK6YXs1jOi1Qncg1K-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;银行 → 服务商：&lt;span data-start=&quot;341&quot; data-end=&quot;349&quot; style=&quot;&quot;&gt;采购委托&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="260" x="837" y="330" as="geometry" />
