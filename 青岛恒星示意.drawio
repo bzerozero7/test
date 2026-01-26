@@ -883,7 +883,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3UWF4iuX0yEkRyatjv6D" name="三方合作模式">
-    <mxGraphModel dx="1403" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1651" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -928,22 +928,19 @@
           <mxGeometry height="110" width="225" x="252.5" y="529" as="geometry" />
         </mxCell>
         <mxCell id="lIVQK6YXs1jOi1Qncg1K-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#000000;" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 24px; color: rgb(255, 255, 255);&quot;&gt;学校（主导方）&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="70" width="185" x="252.5" y="475" as="geometry" />
+          <mxGeometry height="70" width="185" x="252.5" y="500" as="geometry" />
         </mxCell>
         <mxCell id="lIVQK6YXs1jOi1Qncg1K-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#000000;fontStyle=1" value="&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;font-size: 24px; color: rgb(255, 255, 255);&quot;&gt;银行（资金方）&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="70" width="190" x="507.5" y="180" as="geometry" />
+          <mxGeometry height="70" width="190" x="507.5" y="210" as="geometry" />
         </mxCell>
         <mxCell id="lIVQK6YXs1jOi1Qncg1K-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#FFFFFF;" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;•&amp;nbsp;&lt;/span&gt;资金投入&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="170" x="517.5" y="260" as="geometry" />
         </mxCell>
         <mxCell id="lIVQK6YXs1jOi1Qncg1K-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#000000;" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 24px; color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;服务商（建设方）&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="70" width="193" x="748.5" y="475" as="geometry" />
+          <mxGeometry height="70" width="193" x="748.5" y="500" as="geometry" />
         </mxCell>
         <mxCell id="lIVQK6YXs1jOi1Qncg1K-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=0" value="&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size: 20px; background-color: transparent;&quot;&gt;•&amp;nbsp;&lt;/span&gt;&lt;span&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;设备供应 /&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); background-color: transparent;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;软件建设&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="110" width="210" x="746.5" y="529" as="geometry" />
-        </mxCell>
-        <mxCell id="lIVQK6YXs1jOi1Qncg1K-35" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;学校 → 服务商：&lt;span data-start=&quot;388&quot; data-end=&quot;398&quot; style=&quot;&quot;&gt;业务需求提交&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="265" x="470" y="500" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
