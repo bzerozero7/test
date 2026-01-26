@@ -1053,7 +1053,7 @@
         <mxCell id="7gdK691S-DVjlkI-uhtM-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;人脸/码/卡&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="140" x="500" y="660" as="geometry" />
         </mxCell>
-        <mxCell id="7gdK691S-DVjlkI-uhtM-101" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=#C4FF8E;" value="" vertex="1">
+        <mxCell id="7gdK691S-DVjlkI-uhtM-101" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;gradientColor=#C4FF8E;" value="" vertex="1">
           <mxGeometry height="170" width="850" x="40" y="788.91" as="geometry" />
         </mxCell>
         <mxCell id="7gdK691S-DVjlkI-uhtM-17" connectable="0" parent="1" style="group" value="" vertex="1">
