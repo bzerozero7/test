@@ -331,6 +331,12 @@
         <mxCell id="VzIWR7eh1yRC87Xb6tPc-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;水表&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="150" x="1230" y="1375" as="geometry" />
         </mxCell>
+        <mxCell id="VzIWR7eh1yRC87Xb6tPc-62" edge="1" parent="1" source="VzIWR7eh1yRC87Xb6tPc-13" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.302;exitY=-0.015;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#0050ef;strokeColor=#001DBC;sourcePerimeterSpacing=2;targetPerimeterSpacing=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="895.8299999999999" y="1286.76" as="sourcePoint" />
+            <mxPoint x="894.1700000000001" y="1210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
