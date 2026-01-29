@@ -311,7 +311,7 @@
           <mxGeometry height="130" width="130" x="1300" y="1055" as="geometry" />
         </mxCell>
         <mxCell id="VzIWR7eh1yRC87Xb6tPc-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;4G&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="230" x="1370" y="1105" as="geometry" />
+          <mxGeometry height="30" width="230" x="1360" y="1105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
