@@ -22,7 +22,7 @@
         <mxCell id="48" parent="21" style="text;html=1;align=left;verticalAlign=middle;fontColor=#4277BB;shadow=0;dashed=0;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontStyle=1;fontSize=14;spacingLeft=5;" value="建筑/园区网关" vertex="1">
           <mxGeometry height="20" width="150" x="230" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="49" parent="21" style="text;html=1;align=left;verticalAlign=middle;fontColor=#4277BB;shadow=0;dashed=0;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontStyle=1;fontSize=14;spacingLeft=5;" value="云平台" vertex="1">
+        <mxCell id="49" parent="21" style="text;html=1;align=left;verticalAlign=middle;fontColor=#4277BB;shadow=0;dashed=0;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontStyle=1;fontSize=14;spacingLeft=5;" value="平台" vertex="1">
           <mxGeometry height="20" width="185" x="465" y="10" as="geometry" />
         </mxCell>
         <mxCell id="P-Bu5WI7c960674bnGN_-63" parent="21" style="text;html=1;align=left;verticalAlign=middle;fontColor=#4277BB;shadow=0;dashed=0;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontStyle=1;fontSize=14;spacingLeft=5;" value="智能数据网关：&lt;div&gt;&lt;li data-start=&quot;303&quot; data-end=&quot;312&quot;&gt;&lt;p data-start=&quot;305&quot; data-end=&quot;312&quot;&gt;远距离覆盖&lt;/p&gt;&lt;/li&gt;&lt;li data-start=&quot;317&quot; data-end=&quot;326&quot;&gt;&lt;p data-start=&quot;319&quot; data-end=&quot;326&quot;&gt;多设备汇聚&lt;/p&gt;&lt;/li&gt;&lt;li data-start=&quot;331&quot; data-end=&quot;341&quot;&gt;&lt;p data-start=&quot;333&quot; data-end=&quot;341&quot;&gt;支持中继扩展&lt;/p&gt;&lt;/li&gt;&lt;/div&gt;" vertex="1">
