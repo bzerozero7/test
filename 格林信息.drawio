@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="21" parent="1" style="swimlane;shadow=0;strokeColor=#4277BB;fillColor=#ffffff;fontColor=none;align=right;startSize=0;collapsible=0;noLabel=1;strokeWidth=3;" value="" vertex="1">
-          <mxGeometry height="730" width="1040" x="65" y="49" as="geometry" />
+          <mxGeometry height="371" width="1040" x="65" y="49" as="geometry" />
         </mxCell>
         <mxCell id="22" parent="21" style="text;html=1;align=left;verticalAlign=middle;fontColor=#4277BB;shadow=0;dashed=0;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontStyle=1;fontSize=14;spacingLeft=5;" value="PUBLIC NETWORK" vertex="1">
           <mxGeometry height="20" width="150" y="10" as="geometry" />
@@ -14,10 +14,10 @@
           <mxGeometry height="250" width="10" x="225" as="geometry" />
         </mxCell>
         <mxCell id="44" parent="21" style="line;strokeWidth=3;direction=south;html=1;shadow=0;labelBackgroundColor=none;fillColor=none;gradientColor=none;fontSize=12;fontColor=#4277BB;align=right;strokeColor=#4277BB;" value="" vertex="1">
-          <mxGeometry height="490" width="10" x="225" y="240" as="geometry" />
+          <mxGeometry height="130" width="10" x="225" y="240" as="geometry" />
         </mxCell>
         <mxCell id="46" parent="21" style="line;strokeWidth=3;direction=south;html=1;shadow=0;labelBackgroundColor=none;fillColor=none;gradientColor=none;fontSize=12;fontColor=#4277BB;align=right;strokeColor=#4277BB;" value="" vertex="1">
-          <mxGeometry height="490" width="10" x="820" y="240" as="geometry" />
+          <mxGeometry height="130" width="10" x="820" y="240" as="geometry" />
         </mxCell>
         <mxCell id="47" parent="21" style="line;strokeWidth=3;direction=south;html=1;shadow=0;labelBackgroundColor=none;fillColor=none;gradientColor=none;fontSize=12;fontColor=#4277BB;align=right;strokeColor=#4277BB;" value="" vertex="1">
           <mxGeometry height="240" width="10" x="820" as="geometry" />
