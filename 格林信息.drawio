@@ -28,8 +28,11 @@
         <mxCell id="P-Bu5WI7c960674bnGN_-63" parent="21" style="text;html=1;align=left;verticalAlign=middle;fontColor=#4277BB;shadow=0;dashed=0;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontStyle=1;fontSize=14;spacingLeft=5;" value="智能数据网关" vertex="1">
           <mxGeometry height="20" width="105" x="275" y="261" as="geometry" />
         </mxCell>
-        <mxCell id="P-Bu5WI7c960674bnGN_-64" parent="21" style="text;html=1;align=left;verticalAlign=middle;fontColor=#4277BB;shadow=0;dashed=0;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontStyle=1;fontSize=14;spacingLeft=5;" value="RS485" vertex="1">
-          <mxGeometry height="20" width="105" x="15" y="81" as="geometry" />
+        <mxCell id="P-Bu5WI7c960674bnGN_-64" parent="21" style="text;html=1;align=left;verticalAlign=middle;fontColor=#4277BB;shadow=0;dashed=0;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontStyle=1;fontSize=14;spacingLeft=5;" value="RS485：稳定、适合短距离集中采集" vertex="1">
+          <mxGeometry height="19" width="230" y="81" as="geometry" />
+        </mxCell>
+        <mxCell id="P-Bu5WI7c960674bnGN_-75" parent="21" style="text;html=1;align=left;verticalAlign=middle;fontColor=#4277BB;shadow=0;dashed=0;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontStyle=1;fontSize=14;spacingLeft=5;" value="4G：远距离、无需布线" vertex="1">
+          <mxGeometry height="19" width="230" y="115.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
