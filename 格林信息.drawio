@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="21" parent="1" style="swimlane;shadow=0;strokeColor=#4277BB;fillColor=#ffffff;fontColor=none;align=right;startSize=0;collapsible=0;noLabel=1;strokeWidth=3;" value="" vertex="1">
-          <mxGeometry height="371" width="675" x="65" y="49" as="geometry" />
+          <mxGeometry height="371" width="675" x="60" y="49" as="geometry" />
         </mxCell>
         <mxCell id="22" parent="21" style="text;html=1;align=left;verticalAlign=middle;fontColor=#4277BB;shadow=0;dashed=0;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontStyle=1;fontSize=14;spacingLeft=5;" value="室内" vertex="1">
           <mxGeometry height="20" width="150" y="10" as="geometry" />
@@ -29,10 +29,10 @@
           <mxGeometry height="260" width="105" x="245" y="10" as="geometry" />
         </mxCell>
         <mxCell id="P-Bu5WI7c960674bnGN_-64" parent="21" style="text;html=1;align=left;verticalAlign=middle;fontColor=#4277BB;shadow=0;dashed=0;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontStyle=1;fontSize=14;spacingLeft=5;" value="RS485：稳定、适合短距离集中采集" vertex="1">
-          <mxGeometry height="19" width="230" y="81" as="geometry" />
+          <mxGeometry height="19" width="230" x="-5" y="81" as="geometry" />
         </mxCell>
         <mxCell id="P-Bu5WI7c960674bnGN_-75" parent="21" style="text;html=1;align=left;verticalAlign=middle;fontColor=#4277BB;shadow=0;dashed=0;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontStyle=1;fontSize=14;spacingLeft=5;" value="4G：远距离、无需布线" vertex="1">
-          <mxGeometry height="19" width="230" y="115.5" as="geometry" />
+          <mxGeometry height="19" width="230" x="-5" y="115.5" as="geometry" />
         </mxCell>
         <mxCell id="P-Bu5WI7c960674bnGN_-77" parent="21" style="text;html=1;align=left;verticalAlign=middle;fontColor=#4277BB;shadow=0;dashed=0;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontStyle=1;fontSize=14;spacingLeft=5;" value="平台：&lt;div&gt;&lt;li data-start=&quot;443&quot; data-end=&quot;451&quot;&gt;&lt;p data-start=&quot;445&quot; data-end=&quot;451&quot;&gt;可靠传输&lt;/p&gt;&lt;/li&gt;&lt;li data-start=&quot;456&quot; data-end=&quot;467&quot;&gt;&lt;p data-start=&quot;458&quot; data-end=&quot;467&quot;&gt;云端与本地兼顾&lt;/p&gt;&lt;/li&gt;&lt;li data-start=&quot;472&quot; data-end=&quot;481&quot;&gt;&lt;p data-start=&quot;474&quot; data-end=&quot;481&quot;&gt;可远程控制&lt;/p&gt;&lt;/li&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="130" width="105" x="475" y="75" as="geometry" />
