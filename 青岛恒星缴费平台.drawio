@@ -357,7 +357,7 @@
           <mxGeometry height="820" width="330" x="-270" y="510" as="geometry" />
         </mxCell>
         <mxCell id="LhImREDXDQHtOeX2MV6Z-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#F5F5F5;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;支付通道与结算规则（资金规则层）&lt;/span&gt;" vertex="1">
-          <mxGeometry height="70" width="390" x="60" y="1440" as="geometry" />
+          <mxGeometry height="70" width="390" x="-280" y="1360" as="geometry" />
         </mxCell>
         <mxCell id="LhImREDXDQHtOeX2MV6Z-70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#F5F5F5;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;统一查询与对账平台&lt;/span&gt;" vertex="1">
           <mxGeometry height="70" width="390" x="70" y="1954.47" as="geometry" />
@@ -431,11 +431,11 @@
         <mxCell id="LhImREDXDQHtOeX2MV6Z-99" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;移动端&lt;/span&gt;" vertex="1">
           <mxGeometry height="70" width="496" x="414" y="700" as="geometry" />
         </mxCell>
-        <mxCell id="LhImREDXDQHtOeX2MV6Z-101" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;收费项展示&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="159.75" x="709.75" y="1020" as="geometry" />
+        <mxCell id="LhImREDXDQHtOeX2MV6Z-105" parent="1" style="text;whiteSpace=wrap;fontSize=20;" value="- 多渠道缴费入口&#xa;- 收费项目配置与管理&#xa;- 缴费二维码 / 接口生成&#xa;- 微信 / 支付宝 / 银联等支付&#xa;- 线上 + 线下缴费支持&#xa;- 主商户 / 子账户资金归集&#xa;- 缴费记录查询" vertex="1">
+          <mxGeometry height="210" width="290" x="680" y="1007.5" as="geometry" />
         </mxCell>
-        <mxCell id="LhImREDXDQHtOeX2MV6Z-102" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;缴费办理&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="159.75" x="710.12" y="1080" as="geometry" />
+        <mxCell id="LhImREDXDQHtOeX2MV6Z-106" parent="1" style="text;whiteSpace=wrap;fontSize=20;" value="- 统一账户体系&#xa;- 余额与充值管理&#xa;- 微信 / 支付宝充值&#xa;- 校园消费（水 / 电 / 洗浴 / 洗衣 / POS）&#xa;- 消费记录管理" vertex="1">
+          <mxGeometry height="100" width="250" x="1210" y="1007.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
