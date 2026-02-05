@@ -435,7 +435,7 @@
           <mxGeometry height="210" width="290" x="680" y="1007.5" as="geometry" />
         </mxCell>
         <mxCell id="LhImREDXDQHtOeX2MV6Z-106" parent="1" style="text;whiteSpace=wrap;fontSize=20;" value="- 统一账户体系&#xa;- 余额与充值管理&#xa;- 微信 / 支付宝充值&#xa;- 校园消费（水 / 电 / 洗浴 / 洗衣 / POS）&#xa;- 消费记录管理" vertex="1">
-          <mxGeometry height="100" width="250" x="1210" y="1007.5" as="geometry" />
+          <mxGeometry height="172.5" width="250" x="1210" y="1007.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
