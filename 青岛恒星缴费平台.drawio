@@ -393,7 +393,7 @@
           <mxGeometry height="140" width="620" x="380" y="740" as="geometry" />
         </mxCell>
         <mxCell id="LhImREDXDQHtOeX2MV6Z-81" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" value="" vertex="1">
-          <mxGeometry height="140" width="532" x="1808" y="750" as="geometry" />
+          <mxGeometry height="140" width="562" x="1808" y="750" as="geometry" />
         </mxCell>
         <mxCell id="LhImREDXDQHtOeX2MV6Z-84" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;扫描二维码&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="109" x="1959" y="805" as="geometry" />
@@ -434,7 +434,7 @@
         <mxCell id="LhImREDXDQHtOeX2MV6Z-105" parent="1" style="text;whiteSpace=wrap;fontSize=20;" value="- 多渠道缴费入口&#xa;- 收费项目配置与管理&#xa;- 缴费二维码 / 接口生成&#xa;- 微信 / 支付宝 / 银联等支付&#xa;- 线上 + 线下缴费支持&#xa;- 主商户 / 子账户资金归集&#xa;- 缴费记录查询" vertex="1">
           <mxGeometry height="210" width="290" x="680" y="1007.5" as="geometry" />
         </mxCell>
-        <mxCell id="LhImREDXDQHtOeX2MV6Z-106" parent="1" style="text;whiteSpace=wrap;fontSize=20;" value="- 统一校园账户体系&#xa;- 余额与充值管理&#xa;- 微信 / 支付宝充值&#xa;- 校园消费（水 / 电 / 洗浴 / 洗衣/ 吹风 / POS）&#xa;- 消费记录管理" vertex="1">
+        <mxCell id="LhImREDXDQHtOeX2MV6Z-106" parent="1" style="text;whiteSpace=wrap;fontSize=20;" value="统一校园账户体系&#xa;余额与充值管理&#xa;微信 / 支付宝充值&#xa;校园消费（水 / 电 / 洗浴 / 洗衣/ 吹风 / POS）&#xa;消费记录管理" vertex="1">
           <mxGeometry height="172.5" width="250" x="1210" y="1007.5" as="geometry" />
         </mxCell>
       </root>
