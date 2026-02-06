@@ -293,9 +293,6 @@
         <mxCell id="LhImREDXDQHtOeX2MV6Z-72" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#F5F5F5;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;平台支持与扩展能力&lt;/span&gt;" vertex="1">
           <mxGeometry height="70" width="390" x="315.5" y="2584.21" as="geometry" />
         </mxCell>
-        <mxCell id="LhImREDXDQHtOeX2MV6Z-80" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" value="" vertex="1">
-          <mxGeometry height="190" width="620" x="2285" y="979" as="geometry" />
-        </mxCell>
         <mxCell id="LhImREDXDQHtOeX2MV6Z-81" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;gradientColor=none;glass=0;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
           <mxGeometry height="400" width="1140" x="290" y="700" as="geometry" />
         </mxCell>
