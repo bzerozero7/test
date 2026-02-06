@@ -492,10 +492,16 @@
           <mxGeometry height="30" width="245" x="1110" y="1060" as="geometry" />
         </mxCell>
         <mxCell id="zxiQlcMIKWTRIAHEgQNq-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;迎新/扫码缴费&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="140" x="1147.5" y="805" as="geometry" />
+          <mxGeometry height="30" width="140" x="1137.5" y="750" as="geometry" />
         </mxCell>
         <mxCell id="zxiQlcMIKWTRIAHEgQNq-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;充值/消费&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="146" x="1135" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="zxiQlcMIKWTRIAHEgQNq-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;缴费平台&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="146" x="670" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="zxiQlcMIKWTRIAHEgQNq-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;一户通平台&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="146" x="670" y="1060" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
