@@ -127,7 +127,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aK7_PidGkH4elXU46YM5" name="青岛恒星集团业务结构框架">
-    <mxGraphModel dx="2353" dy="1272" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1412" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -313,36 +313,6 @@
         </mxCell>
         <mxCell id="zxiQlcMIKWTRIAHEgQNq-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;教职工&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="167.5" x="122.5" y="837.5" as="geometry" />
-        </mxCell>
-        <mxCell id="zxiQlcMIKWTRIAHEgQNq-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D9E8FF;strokeColor=none;" value="" vertex="1">
-          <mxGeometry height="300" width="220" x="2220" y="1270" as="geometry" />
-        </mxCell>
-        <mxCell id="zxiQlcMIKWTRIAHEgQNq-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" value="" vertex="1">
-          <mxGeometry height="300" width="220" x="2220" y="1330" as="geometry" />
-        </mxCell>
-        <mxCell id="zxiQlcMIKWTRIAHEgQNq-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" value="" vertex="1">
-          <mxGeometry height="255" width="220" x="2220" y="1330" as="geometry" />
-        </mxCell>
-        <mxCell id="zxiQlcMIKWTRIAHEgQNq-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D9E8FF;strokeColor=none;" value="" vertex="1">
-          <mxGeometry height="300" width="220" x="2740" y="1270" as="geometry" />
-        </mxCell>
-        <mxCell id="zxiQlcMIKWTRIAHEgQNq-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" value="" vertex="1">
-          <mxGeometry height="300" width="220" x="2740" y="1330" as="geometry" />
-        </mxCell>
-        <mxCell id="zxiQlcMIKWTRIAHEgQNq-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" value="" vertex="1">
-          <mxGeometry height="255" width="220" x="2740" y="1330" as="geometry" />
-        </mxCell>
-        <mxCell id="zxiQlcMIKWTRIAHEgQNq-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;缴费平台&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="80" x="2290" y="1290" as="geometry" />
-        </mxCell>
-        <mxCell id="zxiQlcMIKWTRIAHEgQNq-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;一户通平台&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="110" x="2795" y="1290" as="geometry" />
-        </mxCell>
-        <mxCell id="zxiQlcMIKWTRIAHEgQNq-10" parent="1" style="text;whiteSpace=wrap;fontSize=20;" value="多渠道缴费入口&#xa;收费项目配置与管理&#xa;缴费二维码 / 接口生成&#xa;微信 / 支付宝 / 银联等支付&#xa;线上 + 线下缴费支持&#xa;主商户 / 子账户资金归集&#xa;缴费记录查询" vertex="1">
-          <mxGeometry height="210" width="290" x="2220" y="1360" as="geometry" />
-        </mxCell>
-        <mxCell id="zxiQlcMIKWTRIAHEgQNq-11" parent="1" style="text;whiteSpace=wrap;fontSize=20;" value="统一校园账户体系&#xa;余额与充值管理&#xa;微信 / 支付宝充值&#xa;校园消费（水 / 电 / 洗浴 / 洗衣/ 吹风 / POS）&#xa;消费记录管理&#xa;校内补助" vertex="1">
-          <mxGeometry height="172.5" width="250" x="2750" y="1360" as="geometry" />
         </mxCell>
         <mxCell id="zxiQlcMIKWTRIAHEgQNq-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=default;" value="" vertex="1">
           <mxGeometry height="60" width="380" x="290" y="620" as="geometry" />
