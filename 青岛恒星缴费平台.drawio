@@ -140,11 +140,11 @@
         <mxCell id="LhImREDXDQHtOeX2MV6Z-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D9E8FF;strokeColor=none;" value="" vertex="1">
           <mxGeometry height="300" width="220" x="680" y="917.5" as="geometry" />
         </mxCell>
-        <mxCell id="LhImREDXDQHtOeX2MV6Z-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;学生用户&lt;/span&gt;" vertex="1">
+        <mxCell id="LhImREDXDQHtOeX2MV6Z-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;学生&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="790" y="560" as="geometry" />
         </mxCell>
-        <mxCell id="LhImREDXDQHtOeX2MV6Z-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;企业用户&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="120" x="1095" y="560" as="geometry" />
+        <mxCell id="LhImREDXDQHtOeX2MV6Z-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;集团员工/企业用户&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="225" x="1095" y="560" as="geometry" />
         </mxCell>
         <mxCell id="LhImREDXDQHtOeX2MV6Z-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;其它用户&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="1400" y="555" as="geometry" />
@@ -418,6 +418,9 @@
         </mxCell>
         <mxCell id="LhImREDXDQHtOeX2MV6Z-106" parent="1" style="text;whiteSpace=wrap;fontSize=20;" value="统一校园账户体系&#xa;余额与充值管理&#xa;微信 / 支付宝充值&#xa;校园消费（水 / 电 / 洗浴 / 洗衣/ 吹风 / POS）&#xa;消费记录管理&#xa;校内补助" vertex="1">
           <mxGeometry height="172.5" width="250" x="1210" y="1007.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zxiQlcMIKWTRIAHEgQNq-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;教职工&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="940" y="560" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
