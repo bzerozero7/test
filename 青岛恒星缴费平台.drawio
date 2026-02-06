@@ -127,7 +127,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aK7_PidGkH4elXU46YM5" name="青岛恒星集团业务结构框架">
-    <mxGraphModel dx="3180" dy="1272" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2488" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -566,8 +566,8 @@
         <mxCell id="HoqatefbmdRKN-g5JdLL-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="支付处理" vertex="1">
           <mxGeometry height="30" width="60" x="1160" y="1780" as="geometry" />
         </mxCell>
-        <mxCell id="HoqatefbmdRKN-g5JdLL-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;缴费平台交易明细 &lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="170" x="490" y="2050" as="geometry" />
+        <mxCell id="HoqatefbmdRKN-g5JdLL-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;缴费平台脚掌与报表&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="200" x="430" y="2040" as="geometry" />
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;核对到账金额、支付方式（微信/支付宝/银行卡）、缴费项目 &lt;/font&gt;" vertex="1">
           <mxGeometry height="80" width="270" x="430" y="2120" as="geometry" />
@@ -628,6 +628,9 @@
             <mxPoint x="1440.5" y="2779.21" as="sourcePoint" />
             <mxPoint x="1500" y="2779.74" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HoqatefbmdRKN-g5JdLL-75" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;一户通平台对账与报表&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="210" x="1040" y="2050" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
