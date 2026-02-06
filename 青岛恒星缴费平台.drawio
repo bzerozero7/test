@@ -127,7 +127,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aK7_PidGkH4elXU46YM5" name="青岛恒星集团业务结构框架">
-    <mxGraphModel dx="2592" dy="954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2055" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -618,6 +618,18 @@
           <mxGeometry height="100" relative="1" width="100" as="geometry">
             <mxPoint x="1029" y="1530" as="sourcePoint" />
             <mxPoint x="1028.69" y="1221.27" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HoqatefbmdRKN-g5JdLL-27" edge="1" parent="1" source="HoqatefbmdRKN-g5JdLL-24" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#91C3F2;strokeColor=#333333;entryX=0.471;entryY=1.004;entryDx=0;entryDy=0;entryPerimeter=0;" target="LhImREDXDQHtOeX2MV6Z-81" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="830" y="1190" as="sourcePoint" />
+            <mxPoint x="830" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HoqatefbmdRKN-g5JdLL-28" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#91C3F2;strokeColor=#333333;" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="819.13" y="1410" as="sourcePoint" />
+            <mxPoint x="819.13" y="1330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
