@@ -473,11 +473,11 @@
         <mxCell id="zxiQlcMIKWTRIAHEgQNq-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;食堂消费以及外包商户消费&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="245" x="1110" y="1060" as="geometry" />
         </mxCell>
-        <mxCell id="zxiQlcMIKWTRIAHEgQNq-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;迎新/扫码缴费&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="140" x="1135" y="810" as="geometry" />
+        <mxCell id="zxiQlcMIKWTRIAHEgQNq-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;迎新/企业缴费&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="1175" y="870" as="geometry" />
         </mxCell>
         <mxCell id="zxiQlcMIKWTRIAHEgQNq-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;充值/消费&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="146" x="1135" y="870" as="geometry" />
+          <mxGeometry height="30" width="146" x="1167" y="805" as="geometry" />
         </mxCell>
         <mxCell id="zxiQlcMIKWTRIAHEgQNq-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;缴费平台&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="146" x="670" y="1000" as="geometry" />
