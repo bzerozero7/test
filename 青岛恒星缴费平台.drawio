@@ -567,7 +567,7 @@
           <mxGeometry height="30" width="60" x="1160" y="1780" as="geometry" />
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;缴费平台脚掌与报表&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="200" x="430" y="2040" as="geometry" />
+          <mxGeometry height="40" width="200" x="500" y="2050" as="geometry" />
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;核对到账金额、支付方式（微信/支付宝/银行卡）、缴费项目 &lt;/font&gt;" vertex="1">
           <mxGeometry height="80" width="270" x="430" y="2120" as="geometry" />
