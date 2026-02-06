@@ -127,7 +127,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aK7_PidGkH4elXU46YM5" name="青岛恒星集团业务结构框架">
-    <mxGraphModel dx="1284" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4034" dy="2180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -636,7 +636,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-93" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#F5F5F5;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;用户支付&lt;/span&gt;" vertex="1">
-          <mxGeometry height="65" width="140" x="1880" y="770" as="geometry" />
+          <mxGeometry height="65" width="140" x="1880" y="1012.5" as="geometry" />
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-128" edge="1" parent="1" source="HoqatefbmdRKN-g5JdLL-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="HoqatefbmdRKN-g5JdLL-104">
           <mxGeometry relative="1" as="geometry" />
