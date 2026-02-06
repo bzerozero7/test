@@ -354,13 +354,13 @@
           <mxGeometry height="140" width="562" x="1808" y="750" as="geometry" />
         </mxCell>
         <mxCell id="LhImREDXDQHtOeX2MV6Z-91" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;微信公众号&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="106" x="361" y="805" as="geometry" />
+          <mxGeometry height="30" width="159" x="361" y="805" as="geometry" />
         </mxCell>
         <mxCell id="LhImREDXDQHtOeX2MV6Z-92" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;微信/支付宝小程序&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="159.75" x="360.25" y="750" as="geometry" />
         </mxCell>
         <mxCell id="LhImREDXDQHtOeX2MV6Z-93" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;（APP内嵌）H5&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="160" x="353" y="870" as="geometry" />
+          <mxGeometry height="30" width="160" x="360" y="870" as="geometry" />
         </mxCell>
         <mxCell id="LhImREDXDQHtOeX2MV6Z-94" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=default;" value="" vertex="1">
           <mxGeometry height="190" width="270" x="70" y="380" as="geometry" />
@@ -426,16 +426,16 @@
           <mxGeometry height="30" width="110" x="300" y="950" as="geometry" />
         </mxCell>
         <mxCell id="zxiQlcMIKWTRIAHEgQNq-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;POS机/人脸机&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="146" x="360" y="1060" as="geometry" />
+          <mxGeometry height="30" width="160" x="360" y="1060" as="geometry" />
         </mxCell>
         <mxCell id="zxiQlcMIKWTRIAHEgQNq-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;二维码收款&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="146" x="360" y="1000" as="geometry" />
+          <mxGeometry height="30" width="160" x="360" y="1000" as="geometry" />
         </mxCell>
         <mxCell id="zxiQlcMIKWTRIAHEgQNq-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;缴费平台&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="146" x="670" y="870" as="geometry" />
         </mxCell>
         <mxCell id="zxiQlcMIKWTRIAHEgQNq-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;一户通平台&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="146" x="670" y="810" as="geometry" />
+          <mxGeometry height="30" width="146" x="670" y="805" as="geometry" />
         </mxCell>
         <mxCell id="zxiQlcMIKWTRIAHEgQNq-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;一户通平台&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="146" x="670" y="750" as="geometry" />
@@ -486,10 +486,28 @@
           <mxGeometry height="30" width="146" x="1159.5" y="1000" as="geometry" />
         </mxCell>
         <mxCell id="zxiQlcMIKWTRIAHEgQNq-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;水电充值/消费查询&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="156" x="1158" y="740" as="geometry" />
+          <mxGeometry height="30" width="156" x="1159.5" y="750" as="geometry" />
         </mxCell>
         <mxCell id="zxiQlcMIKWTRIAHEgQNq-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;水电充值/消费查询&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="153" x="1159.5" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="zxiQlcMIKWTRIAHEgQNq-44" edge="1" parent="1" source="LhImREDXDQHtOeX2MV6Z-92" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;strokeWidth=3;" target="zxiQlcMIKWTRIAHEgQNq-26" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="900" y="900" as="sourcePoint" />
+            <mxPoint x="950" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zxiQlcMIKWTRIAHEgQNq-45" edge="1" parent="1" source="zxiQlcMIKWTRIAHEgQNq-26" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;strokeWidth=3;" target="zxiQlcMIKWTRIAHEgQNq-41" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="940" y="800" as="sourcePoint" />
+            <mxPoint x="1090" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zxiQlcMIKWTRIAHEgQNq-46" edge="1" parent="1" source="LhImREDXDQHtOeX2MV6Z-91" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;strokeWidth=3;" target="zxiQlcMIKWTRIAHEgQNq-25" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1100" y="830" as="sourcePoint" />
+            <mxPoint x="1250" y="830" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
