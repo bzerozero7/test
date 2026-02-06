@@ -471,10 +471,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zxiQlcMIKWTRIAHEgQNq-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;食堂消费以及外包商户消费&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="245" x="1110" y="1060" as="geometry" />
+          <mxGeometry height="30" width="245" x="1159.5" y="1060" as="geometry" />
         </mxCell>
         <mxCell id="zxiQlcMIKWTRIAHEgQNq-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;迎新/企业缴费&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="140" x="1170" y="870" as="geometry" />
+          <mxGeometry height="30" width="140" x="1159.5" y="870" as="geometry" />
         </mxCell>
         <mxCell id="zxiQlcMIKWTRIAHEgQNq-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;缴费平台&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="146" x="670" y="1000" as="geometry" />
@@ -486,10 +486,10 @@
           <mxGeometry height="30" width="146" x="1159.5" y="1000" as="geometry" />
         </mxCell>
         <mxCell id="zxiQlcMIKWTRIAHEgQNq-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;水电充值/消费查询&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="156" x="1164" y="740" as="geometry" />
+          <mxGeometry height="30" width="156" x="1158" y="740" as="geometry" />
         </mxCell>
         <mxCell id="zxiQlcMIKWTRIAHEgQNq-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;水电充值/消费查询&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="153" x="1167" y="810" as="geometry" />
+          <mxGeometry height="30" width="153" x="1159.5" y="810" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
