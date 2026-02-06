@@ -127,7 +127,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aK7_PidGkH4elXU46YM5" name="青岛恒星集团业务结构框架">
-    <mxGraphModel dx="1412" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1228" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -531,10 +531,10 @@
           <mxGeometry height="30" width="60" x="1160" y="1780" as="geometry" />
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#F5F5F5;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;本地部署&lt;/span&gt;" vertex="1">
-          <mxGeometry height="70" width="213" x="1175.5" y="2540" as="geometry" />
+          <mxGeometry height="70" width="213" x="1225" y="2490" as="geometry" />
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#F5F5F5;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;身份认证&lt;/span&gt;" vertex="1">
-          <mxGeometry height="70" width="213" x="1113.5" y="2450" as="geometry" />
+          <mxGeometry height="70" width="213" x="1090" y="2605" as="geometry" />
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#F5F5F5;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;API接口&lt;/span&gt;" vertex="1">
           <mxGeometry height="70" width="213" x="505" y="2719.21" as="geometry" />
@@ -666,7 +666,7 @@
           <mxGeometry height="65" width="230" x="1835" y="1200" as="geometry" />
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-97" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#F5F5F5;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;国际支付对接&lt;/span&gt;" vertex="1">
-          <mxGeometry height="70" width="213" x="837" y="2460" as="geometry" />
+          <mxGeometry height="70" width="213" x="845" y="2600" as="geometry" />
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-102" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;企业&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="2080" y="1302.23" as="geometry" />
@@ -775,6 +775,12 @@
         </mxCell>
         <mxCell id="S7oXzEUlrJ9ZkV0hXLPF-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="分级" vertex="1">
           <mxGeometry height="30" width="60" x="1654" y="1990" as="geometry" />
+        </mxCell>
+        <mxCell id="S7oXzEUlrJ9ZkV0hXLPF-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="扩展能力" vertex="1">
+          <mxGeometry height="30" width="60" x="1090" y="2390" as="geometry" />
+        </mxCell>
+        <mxCell id="S7oXzEUlrJ9ZkV0hXLPF-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="多平台" vertex="1">
+          <mxGeometry height="30" width="60" x="950" y="2470" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
