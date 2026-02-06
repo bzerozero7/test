@@ -758,6 +758,9 @@
         <mxCell id="S7oXzEUlrJ9ZkV0hXLPF-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="分布式系统设计" vertex="1">
           <mxGeometry height="30" width="120" x="310" y="2625" as="geometry" />
         </mxCell>
+        <mxCell id="S7oXzEUlrJ9ZkV0hXLPF-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nginx负载均衡" vertex="1">
+          <mxGeometry height="30" width="120" x="310" y="2680" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
