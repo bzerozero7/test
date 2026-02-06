@@ -614,9 +614,9 @@
             <mxPoint x="597.88" y="1220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HoqatefbmdRKN-g5JdLL-26" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#91C3F2;strokeColor=#333333;exitX=0.443;exitY=-0.006;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+        <mxCell id="HoqatefbmdRKN-g5JdLL-26" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#91C3F2;strokeColor=#333333;" value="">
           <mxGeometry height="100" relative="1" width="100" as="geometry">
-            <mxPoint x="1023.81" y="1535.27" as="sourcePoint" />
+            <mxPoint x="1029" y="1530" as="sourcePoint" />
             <mxPoint x="1028.69" y="1221.27" as="targetPoint" />
           </mxGeometry>
         </mxCell>
