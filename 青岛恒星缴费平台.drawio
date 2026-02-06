@@ -639,7 +639,7 @@
           <mxGeometry height="170" width="190" x="1045" y="2020" as="geometry" />
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-82" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="2400" width="320" x="1691" y="549.21" as="geometry" />
+          <mxGeometry height="2400" width="539" x="1691" y="549.21" as="geometry" />
         </mxCell>
         <mxCell id="LhImREDXDQHtOeX2MV6Z-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#F5F5F5;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;支付通道与结算规则&lt;/span&gt;" vertex="1">
           <mxGeometry height="70" width="390" x="1656" y="530" as="geometry" />
@@ -663,7 +663,19 @@
           <mxGeometry height="30" width="70" x="1550" y="1540" as="geometry" />
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-93" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#F5F5F5;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;用户支付&lt;/span&gt;" vertex="1">
-          <mxGeometry height="65" width="140" x="1770" y="750" as="geometry" />
+          <mxGeometry height="65" width="140" x="1880" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="HoqatefbmdRKN-g5JdLL-94" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#F5F5F5;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;用户支付&lt;/span&gt;" vertex="1">
+          <mxGeometry height="65" width="140" x="1750" y="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="HoqatefbmdRKN-g5JdLL-95" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#F5F5F5;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;用户支付&lt;/span&gt;" vertex="1">
+          <mxGeometry height="65" width="140" x="2020" y="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="HoqatefbmdRKN-g5JdLL-96" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#F5F5F5;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;微信支付宝&lt;/span&gt;" vertex="1">
+          <mxGeometry height="65" width="140" x="1880" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="HoqatefbmdRKN-g5JdLL-97" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#F5F5F5;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;国际支付对接&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="213" x="837" y="2460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
