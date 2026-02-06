@@ -127,7 +127,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aK7_PidGkH4elXU46YM5" name="青岛恒星集团业务结构框架">
-    <mxGraphModel dx="1661" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1412" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -606,10 +606,10 @@
           <mxGeometry height="170" width="190" x="1045" y="2020" as="geometry" />
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-82" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="1377" width="539" x="1676" y="523" as="geometry" />
+          <mxGeometry height="910" width="539" x="1676" y="990" as="geometry" />
         </mxCell>
         <mxCell id="LhImREDXDQHtOeX2MV6Z-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#F5F5F5;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;支付通道与结算规则&lt;/span&gt;" vertex="1">
-          <mxGeometry height="70" width="390" x="1730" y="520" as="geometry" />
+          <mxGeometry height="70" width="390" x="1740" y="930" as="geometry" />
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-88" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -753,13 +753,13 @@
           <mxGeometry height="70" width="213" x="300" y="2470" as="geometry" />
         </mxCell>
         <mxCell id="S7oXzEUlrJ9ZkV0hXLPF-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="B/S架构" vertex="1">
-          <mxGeometry height="30" width="120" x="310" y="2570" as="geometry" />
+          <mxGeometry height="30" width="120" x="353" y="2570" as="geometry" />
         </mxCell>
         <mxCell id="S7oXzEUlrJ9ZkV0hXLPF-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="分布式系统设计" vertex="1">
-          <mxGeometry height="30" width="120" x="310" y="2625" as="geometry" />
+          <mxGeometry height="30" width="120" x="353" y="2625" as="geometry" />
         </mxCell>
         <mxCell id="S7oXzEUlrJ9ZkV0hXLPF-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nginx负载均衡" vertex="1">
-          <mxGeometry height="30" width="120" x="310" y="2680" as="geometry" />
+          <mxGeometry height="30" width="120" x="353" y="2680" as="geometry" />
         </mxCell>
         <mxCell id="S7oXzEUlrJ9ZkV0hXLPF-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#F5F5F5;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;技术栈&lt;/span&gt;" vertex="1">
           <mxGeometry height="70" width="213" x="567" y="2470" as="geometry" />
@@ -772,6 +772,9 @@
         </mxCell>
         <mxCell id="S7oXzEUlrJ9ZkV0hXLPF-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Redis" vertex="1">
           <mxGeometry height="30" width="120" x="595" y="2670" as="geometry" />
+        </mxCell>
+        <mxCell id="S7oXzEUlrJ9ZkV0hXLPF-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="分级" vertex="1">
+          <mxGeometry height="30" width="60" x="1654" y="1990" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
