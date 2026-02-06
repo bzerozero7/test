@@ -642,7 +642,7 @@
           <mxGeometry height="2400" width="320" x="1690" y="560" as="geometry" />
         </mxCell>
         <mxCell id="LhImREDXDQHtOeX2MV6Z-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#F5F5F5;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;支付通道与结算规则&lt;/span&gt;" vertex="1">
-          <mxGeometry height="70" width="390" x="1650" y="530" as="geometry" />
+          <mxGeometry height="70" width="390" x="1656" y="530" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
