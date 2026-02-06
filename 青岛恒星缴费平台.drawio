@@ -132,7 +132,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HoqatefbmdRKN-g5JdLL-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="595" width="1230" x="270" y="2370" as="geometry" />
+          <mxGeometry height="595" width="1230" x="280" y="2375" as="geometry" />
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
           <mxGeometry height="395.79" width="1230" x="260" y="1914.21" as="geometry" />
@@ -531,10 +531,10 @@
           <mxGeometry height="30" width="60" x="1160" y="1780" as="geometry" />
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#F5F5F5;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;本地部署&lt;/span&gt;" vertex="1">
-          <mxGeometry height="70" width="213" x="600" y="2570" as="geometry" />
+          <mxGeometry height="70" width="213" x="1175.5" y="2540" as="geometry" />
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#F5F5F5;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;身份认证&lt;/span&gt;" vertex="1">
-          <mxGeometry height="70" width="213" x="560" y="2460" as="geometry" />
+          <mxGeometry height="70" width="213" x="1113.5" y="2450" as="geometry" />
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#F5F5F5;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;API接口&lt;/span&gt;" vertex="1">
           <mxGeometry height="70" width="213" x="505" y="2719.21" as="geometry" />
@@ -760,6 +760,18 @@
         </mxCell>
         <mxCell id="S7oXzEUlrJ9ZkV0hXLPF-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nginx负载均衡" vertex="1">
           <mxGeometry height="30" width="120" x="310" y="2680" as="geometry" />
+        </mxCell>
+        <mxCell id="S7oXzEUlrJ9ZkV0hXLPF-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#F5F5F5;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;技术栈&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="213" x="567" y="2470" as="geometry" />
+        </mxCell>
+        <mxCell id="S7oXzEUlrJ9ZkV0hXLPF-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Java" vertex="1">
+          <mxGeometry height="30" width="120" x="595" y="2570" as="geometry" />
+        </mxCell>
+        <mxCell id="S7oXzEUlrJ9ZkV0hXLPF-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MySQL" vertex="1">
+          <mxGeometry height="30" width="120" x="595" y="2620" as="geometry" />
+        </mxCell>
+        <mxCell id="S7oXzEUlrJ9ZkV0hXLPF-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Redis" vertex="1">
+          <mxGeometry height="30" width="120" x="595" y="2670" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
