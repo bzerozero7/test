@@ -488,6 +488,9 @@
         <mxCell id="zxiQlcMIKWTRIAHEgQNq-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;迎新/企业缴费&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="146" x="1159.5" y="1000" as="geometry" />
         </mxCell>
+        <mxCell id="zxiQlcMIKWTRIAHEgQNq-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;水电充值&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="146" x="1167" y="740" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
