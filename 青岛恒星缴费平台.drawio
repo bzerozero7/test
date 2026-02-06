@@ -380,12 +380,6 @@
         <mxCell id="LhImREDXDQHtOeX2MV6Z-95" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;线上支付&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="110" x="300" y="700" as="geometry" />
         </mxCell>
-        <mxCell id="LhImREDXDQHtOeX2MV6Z-96" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=default;" value="" vertex="1">
-          <mxGeometry height="140" width="238" x="1570" y="750" as="geometry" />
-        </mxCell>
-        <mxCell id="LhImREDXDQHtOeX2MV6Z-97" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;线下支付&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="80" x="1649" y="805" as="geometry" />
-        </mxCell>
         <mxCell id="zxiQlcMIKWTRIAHEgQNq-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;教职工&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="940" y="560" as="geometry" />
         </mxCell>
