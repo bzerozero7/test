@@ -747,7 +747,7 @@
           <mxGeometry height="30" width="110" x="1810" y="1510" as="geometry" />
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-133" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="提现" vertex="1">
-          <mxGeometry height="30" width="60" x="1880" y="1710" as="geometry" />
+          <mxGeometry height="30" width="60" x="1880" y="1705" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
