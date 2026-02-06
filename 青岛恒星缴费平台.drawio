@@ -353,18 +353,6 @@
         <mxCell id="LhImREDXDQHtOeX2MV6Z-81" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" value="" vertex="1">
           <mxGeometry height="140" width="562" x="1808" y="750" as="geometry" />
         </mxCell>
-        <mxCell id="LhImREDXDQHtOeX2MV6Z-84" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;扫描二维码&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="109" x="1950" y="805" as="geometry" />
-        </mxCell>
-        <mxCell id="LhImREDXDQHtOeX2MV6Z-85" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;现金支付&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="80" x="1843" y="805" as="geometry" />
-        </mxCell>
-        <mxCell id="LhImREDXDQHtOeX2MV6Z-86" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;碰一碰&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;（支付宝）&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="109" x="2078" y="805" as="geometry" />
-        </mxCell>
-        <mxCell id="LhImREDXDQHtOeX2MV6Z-87" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;人脸/刷码&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;（微信支付宝）&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="141" x="2210" y="790" as="geometry" />
-        </mxCell>
         <mxCell id="LhImREDXDQHtOeX2MV6Z-91" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;微信公众号&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="106" x="360" y="860" as="geometry" />
         </mxCell>
