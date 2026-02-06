@@ -354,13 +354,13 @@
           <mxGeometry height="140" width="562" x="1808" y="750" as="geometry" />
         </mxCell>
         <mxCell id="LhImREDXDQHtOeX2MV6Z-91" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;微信公众号&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="106" x="360" y="860" as="geometry" />
+          <mxGeometry height="30" width="106" x="361" y="805" as="geometry" />
         </mxCell>
         <mxCell id="LhImREDXDQHtOeX2MV6Z-92" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;微信/支付宝小程序&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="159.75" x="360.25" y="750" as="geometry" />
         </mxCell>
         <mxCell id="LhImREDXDQHtOeX2MV6Z-93" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;（APP内嵌）H5&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="160" x="360.25" y="805" as="geometry" />
+          <mxGeometry height="30" width="160" x="353" y="870" as="geometry" />
         </mxCell>
         <mxCell id="LhImREDXDQHtOeX2MV6Z-94" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=default;" value="" vertex="1">
           <mxGeometry height="190" width="270" x="70" y="380" as="geometry" />
@@ -432,10 +432,10 @@
           <mxGeometry height="30" width="146" x="360" y="1000" as="geometry" />
         </mxCell>
         <mxCell id="zxiQlcMIKWTRIAHEgQNq-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;缴费平台&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="146" x="670" y="805" as="geometry" />
+          <mxGeometry height="30" width="146" x="670" y="870" as="geometry" />
         </mxCell>
         <mxCell id="zxiQlcMIKWTRIAHEgQNq-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;一户通平台&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="146" x="670" y="870" as="geometry" />
+          <mxGeometry height="30" width="146" x="670" y="810" as="geometry" />
         </mxCell>
         <mxCell id="zxiQlcMIKWTRIAHEgQNq-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;一户通平台&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="146" x="670" y="750" as="geometry" />
@@ -474,7 +474,7 @@
           <mxGeometry height="30" width="245" x="1110" y="1060" as="geometry" />
         </mxCell>
         <mxCell id="zxiQlcMIKWTRIAHEgQNq-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;迎新/扫码缴费&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="140" x="1137.5" y="750" as="geometry" />
+          <mxGeometry height="30" width="140" x="1135" y="810" as="geometry" />
         </mxCell>
         <mxCell id="zxiQlcMIKWTRIAHEgQNq-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;充值/消费&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="146" x="1135" y="870" as="geometry" />
