@@ -127,7 +127,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aK7_PidGkH4elXU46YM5" name="青岛恒星集团业务结构框架">
-    <mxGraphModel dx="3426" dy="1837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1998" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -542,8 +542,8 @@
         <mxCell id="HoqatefbmdRKN-g5JdLL-112" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#F5F5F5;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;账户&lt;/span&gt;" vertex="1">
           <mxGeometry height="110" width="20" x="2049" y="1754" as="geometry" />
         </mxCell>
-        <mxCell id="HoqatefbmdRKN-g5JdLL-117" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="规则分账" vertex="1">
-          <mxGeometry height="30" width="60" x="1984" y="1695" as="geometry" />
+        <mxCell id="HoqatefbmdRKN-g5JdLL-117" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;规则分账&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="76" x="1984" y="1695" as="geometry" />
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-127" edge="1" parent="1" source="HoqatefbmdRKN-g5JdLL-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="HoqatefbmdRKN-g5JdLL-125">
           <mxGeometry relative="1" as="geometry" />
@@ -563,10 +563,10 @@
         <mxCell id="HoqatefbmdRKN-g5JdLL-125" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#F5F5F5;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;异户银行账户&lt;/span&gt;" vertex="1">
           <mxGeometry height="150" width="20" x="1754" y="1740" as="geometry" />
         </mxCell>
-        <mxCell id="HoqatefbmdRKN-g5JdLL-132" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="规则分账 / 直付通" vertex="1">
-          <mxGeometry height="30" width="110" x="1694" y="1510" as="geometry" />
+        <mxCell id="HoqatefbmdRKN-g5JdLL-132" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;规则分账 / 直付通&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="156" x="1694" y="1510" as="geometry" />
         </mxCell>
-        <mxCell id="HoqatefbmdRKN-g5JdLL-133" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="提现" vertex="1">
+        <mxCell id="HoqatefbmdRKN-g5JdLL-133" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;提现&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="1764" y="1705" as="geometry" />
         </mxCell>
         <mxCell id="S7oXzEUlrJ9ZkV0hXLPF-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#F5F5F5;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;平台架构&lt;/span&gt;" vertex="1">
