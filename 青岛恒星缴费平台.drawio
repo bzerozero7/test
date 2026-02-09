@@ -127,7 +127,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aK7_PidGkH4elXU46YM5" name="青岛恒星集团业务结构框架">
-    <mxGraphModel dx="510" dy="274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1998" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -440,8 +440,8 @@
         <mxCell id="HoqatefbmdRKN-g5JdLL-82" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
           <mxGeometry height="1240" width="539" x="1560" y="990" as="geometry" />
         </mxCell>
-        <mxCell id="LhImREDXDQHtOeX2MV6Z-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#F5F5F5;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;支付通道与结算规则&lt;/span&gt;" vertex="1">
-          <mxGeometry height="70" width="390" x="1624" y="930" as="geometry" />
+        <mxCell id="LhImREDXDQHtOeX2MV6Z-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2668BE;strokeColor=#F5F5F5;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;支付通道与结算规则&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="390" x="1624" y="937.5" as="geometry" />
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-88" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=none;fillColor=#DBEBFA;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
