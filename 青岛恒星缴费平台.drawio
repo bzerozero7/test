@@ -127,7 +127,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aK7_PidGkH4elXU46YM5" name="青岛恒星集团业务结构框架">
-    <mxGraphModel dx="1142" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2998" dy="1608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -696,13 +696,13 @@
           <mxGeometry height="40" width="170" x="793" y="2120" as="geometry" />
         </mxCell>
         <mxCell id="xIr0DgueuHaz4jzKNPyb-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;收入汇总报表&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="155" x="1060.79" y="1990" as="geometry" />
+          <mxGeometry height="30" width="155" x="1055" y="1990" as="geometry" />
         </mxCell>
         <mxCell id="xIr0DgueuHaz4jzKNPyb-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;font-size: 20px; text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;项目/学校/场景统计&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="179.21" x="1070.79" y="2029.21" as="geometry" />
+          <mxGeometry height="30" width="179.21" x="1067.5" y="2029.21" as="geometry" />
         </mxCell>
         <mxCell id="xIr0DgueuHaz4jzKNPyb-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;font-size: 20px; text-align: left;&quot;&gt;日 / 月 / 年维度统计&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="189.21" x="1060.79" y="2070" as="geometry" />
+          <mxGeometry height="30" width="189.21" x="1067.5" y="2070" as="geometry" />
         </mxCell>
         <mxCell id="xIr0DgueuHaz4jzKNPyb-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;font-size: 20px; text-align: left;&quot;&gt;多平台数据对接汇总&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="199.21" x="1060.79" y="2110" as="geometry" />
