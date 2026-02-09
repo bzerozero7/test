@@ -127,7 +127,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aK7_PidGkH4elXU46YM5" name="青岛恒星集团业务结构框架">
-    <mxGraphModel dx="4652" dy="1608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4052" dy="1286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -141,7 +141,7 @@
           <mxGeometry height="450" width="1422" x="178" y="1730" as="geometry" />
         </mxCell>
         <mxCell id="pyTbM5GMZS-kGWHhoBbo-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#2668BE;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="513.06" width="1232" x="178" y="616.94" as="geometry" />
+          <mxGeometry height="513.06" width="1702" x="178" y="616.94" as="geometry" />
         </mxCell>
         <mxCell id="LhImREDXDQHtOeX2MV6Z-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1F4E79;strokeColor=none;gradientColor=none;gradientDirection=radial;" value="&lt;font style=&quot;font-size: 43px; color: rgb(255, 255, 255);&quot;&gt;恒星集团大平台架构&lt;/font&gt;" vertex="1">
           <mxGeometry height="70" width="1760" x="258" y="425" as="geometry" />
@@ -150,13 +150,10 @@
           <mxGeometry height="513.06" width="80" x="178" y="616.94" as="geometry" />
         </mxCell>
         <mxCell id="LhImREDXDQHtOeX2MV6Z-81" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6F6FF;strokeColor=#2668BE;gradientColor=none;glass=0;" value="" vertex="1">
-          <mxGeometry height="430" width="1140" x="265.5" y="692.5" as="geometry" />
+          <mxGeometry height="122.5" width="1140" x="265.5" y="1000" as="geometry" />
         </mxCell>
         <mxCell id="zxiQlcMIKWTRIAHEgQNq-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6F6FF;strokeColor=#2668BE;" value="" vertex="1">
           <mxGeometry height="60" width="380" x="258" y="620" as="geometry" />
-        </mxCell>
-        <mxCell id="AfYXA4k5zn5zdgvh_gUN-12" edge="1" parent="1" source="zxiQlcMIKWTRIAHEgQNq-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LhImREDXDQHtOeX2MV6Z-81">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zxiQlcMIKWTRIAHEgQNq-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6F6FF;strokeColor=#2668BE;" value="" vertex="1">
           <mxGeometry height="60" width="380" x="638" y="620" as="geometry" />
