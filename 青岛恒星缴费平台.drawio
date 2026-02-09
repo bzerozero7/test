@@ -575,12 +575,6 @@
         <mxCell id="S7oXzEUlrJ9ZkV0hXLPF-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Redis" vertex="1">
           <mxGeometry height="30" width="120" x="563.5" y="2990.79" as="geometry" />
         </mxCell>
-        <mxCell id="AfYXA4k5zn5zdgvh_gUN-1" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.404;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#DBEBFA;strokeColor=none;" target="HoqatefbmdRKN-g5JdLL-4" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="757" y="1150" as="sourcePoint" />
-            <mxPoint x="754.5" y="1342.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="AfYXA4k5zn5zdgvh_gUN-2" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.562;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#DBEBFA;strokeColor=none;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="951.2600000000002" y="1150" as="sourcePoint" />
