@@ -127,7 +127,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aK7_PidGkH4elXU46YM5" name="青岛恒星集团业务结构框架">
-    <mxGraphModel dx="1029" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1462" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -411,7 +411,7 @@
           <mxGeometry height="70" width="213" x="1090" y="2470" as="geometry" />
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#F5F5F5;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;身份认证&lt;/span&gt;" vertex="1">
-          <mxGeometry height="70" width="213" x="837" y="2580" as="geometry" />
+          <mxGeometry height="70" width="213" x="837" y="2470" as="geometry" />
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#F5F5F5;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;开放API接口&lt;/span&gt;" vertex="1">
           <mxGeometry height="70" width="213" x="837" y="2690" as="geometry" />
@@ -536,9 +536,6 @@
         <mxCell id="HoqatefbmdRKN-g5JdLL-96" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#F5F5F5;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;微信 / 支付宝&lt;/span&gt;" vertex="1">
           <mxGeometry height="65" width="230" x="1719" y="1200" as="geometry" />
         </mxCell>
-        <mxCell id="HoqatefbmdRKN-g5JdLL-97" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#F5F5F5;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;国际支付对接&lt;/span&gt;" vertex="1">
-          <mxGeometry height="70" width="213" x="837" y="2470" as="geometry" />
-        </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-102" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;企业&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="1964" y="1302.23" as="geometry" />
         </mxCell>
@@ -639,7 +636,7 @@
           <mxGeometry height="30" width="120" x="613.5" y="2620" as="geometry" />
         </mxCell>
         <mxCell id="S7oXzEUlrJ9ZkV0hXLPF-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Redis" vertex="1">
-          <mxGeometry height="30" width="120" x="595" y="2670" as="geometry" />
+          <mxGeometry height="30" width="120" x="613.5" y="2670" as="geometry" />
         </mxCell>
         <mxCell id="AfYXA4k5zn5zdgvh_gUN-1" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.404;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" target="HoqatefbmdRKN-g5JdLL-4" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
