@@ -656,14 +656,14 @@
             <mxPoint x="1420" y="1070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xIr0DgueuHaz4jzKNPyb-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;到账时效标识（D0 / T+1）&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="243.5" x="376.5" y="1999.21" as="geometry" />
+        <mxCell id="xIr0DgueuHaz4jzKNPyb-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;到账时效标识（D0 / T+1）&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="243.5" x="376.5" y="1990" as="geometry" />
         </mxCell>
-        <mxCell id="xIr0DgueuHaz4jzKNPyb-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;异户到账区分&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="146" x="366.5" y="2107.89" as="geometry" />
+        <mxCell id="xIr0DgueuHaz4jzKNPyb-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;异户到账区分&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="146" x="376.5" y="2100" as="geometry" />
         </mxCell>
-        <mxCell id="xIr0DgueuHaz4jzKNPyb-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 20px; text-align: left;&quot;&gt;到账状态标识&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="130" x="376.5" y="2059.21" as="geometry" />
+        <mxCell id="xIr0DgueuHaz4jzKNPyb-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;到账状态标识&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="376.5" y="2050" as="geometry" />
         </mxCell>
         <mxCell id="xIr0DgueuHaz4jzKNPyb-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#528ED3;" value="" vertex="1">
           <mxGeometry height="285.79" width="280" x="720" y="1914.21" as="geometry" />
@@ -678,28 +678,28 @@
           <mxGeometry height="64.21" width="220" x="1050" y="1914.21" as="geometry" />
         </mxCell>
         <mxCell id="xIr0DgueuHaz4jzKNPyb-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;缴费平台对账&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="155" x="750" y="2009.21" as="geometry" />
+          <mxGeometry height="30" width="155" x="750" y="2000" as="geometry" />
         </mxCell>
         <mxCell id="xIr0DgueuHaz4jzKNPyb-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;校园一户通对账&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="160" x="750" y="2050" as="geometry" />
         </mxCell>
         <mxCell id="xIr0DgueuHaz4jzKNPyb-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;支付通道对账&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;（微信/支付宝/银行）&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="190" x="750" y="2095" as="geometry" />
+          <mxGeometry height="60" width="190" x="750" y="2090" as="geometry" />
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-79" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;资金差异核对&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="170" x="754.5" y="2150" as="geometry" />
         </mxCell>
-        <mxCell id="xIr0DgueuHaz4jzKNPyb-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;收入汇总报表&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="155" x="1055" y="1990" as="geometry" />
+        <mxCell id="xIr0DgueuHaz4jzKNPyb-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;收入汇总报表&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="155" x="1067.5" y="1999.21" as="geometry" />
         </mxCell>
-        <mxCell id="xIr0DgueuHaz4jzKNPyb-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;font-size: 20px; text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;项目 / 学校 / 场景统计&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="202.5" x="1067.5" y="2029.21" as="geometry" />
+        <mxCell id="xIr0DgueuHaz4jzKNPyb-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;项目 / 学校 / 场景统计&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="202.5" x="1067.5" y="2050" as="geometry" />
         </mxCell>
-        <mxCell id="xIr0DgueuHaz4jzKNPyb-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;font-size: 20px; text-align: left;&quot;&gt;日 / 月 / 年维度统计&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="189.21" x="1067.5" y="2070" as="geometry" />
+        <mxCell id="xIr0DgueuHaz4jzKNPyb-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;日 / 月 / 年维度统计&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="189.21" x="1067.5" y="2100" as="geometry" />
         </mxCell>
-        <mxCell id="xIr0DgueuHaz4jzKNPyb-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;font-size: 20px; text-align: left;&quot;&gt;多平台数据对接汇总&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="199.21" x="1060.79" y="2110" as="geometry" />
+        <mxCell id="xIr0DgueuHaz4jzKNPyb-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;多平台数据对接汇总&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="199.21" x="1067.5" y="2150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
