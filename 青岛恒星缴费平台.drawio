@@ -127,7 +127,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aK7_PidGkH4elXU46YM5" name="青岛恒星集团业务结构框架">
-    <mxGraphModel dx="3253" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2510" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -193,9 +193,6 @@
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-82" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
           <mxGeometry height="950" width="539" x="2210" y="616.94" as="geometry" />
-        </mxCell>
-        <mxCell id="LhImREDXDQHtOeX2MV6Z-69" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2668BE;strokeColor=#F5F5F5;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;支持微信支付宝支付与分账功能&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="70" width="390" x="-370" y="1417.5" as="geometry" />
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-98" edge="1" parent="1" source="HoqatefbmdRKN-g5JdLL-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="HoqatefbmdRKN-g5JdLL-96">
           <mxGeometry relative="1" as="geometry" />
@@ -745,6 +742,9 @@
             <mxPoint x="1564.77" y="911.5" as="sourcePoint" />
             <mxPoint x="1564.77" y="950.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TlW5Ntq0p5Irzo8IPR0V-154" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="393.5" width="210" x="1460" y="648.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
