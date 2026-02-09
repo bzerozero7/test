@@ -127,7 +127,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aK7_PidGkH4elXU46YM5" name="青岛恒星集团业务结构框架">
-    <mxGraphModel dx="1199" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3426" dy="1837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,7 +159,7 @@
           <mxGeometry height="90" width="250" x="300" y="510" as="geometry" />
         </mxCell>
         <mxCell id="LhImREDXDQHtOeX2MV6Z-70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2668BE;strokeColor=#F5F5F5;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;平台整合与查询&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="102.23" width="250" x="289" y="1220" as="geometry" />
+          <mxGeometry height="102.23" width="250" x="250" y="1220" as="geometry" />
         </mxCell>
         <mxCell id="LhImREDXDQHtOeX2MV6Z-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2668BE;strokeColor=#F5F5F5;" value="&lt;font style=&quot;font-size: 24px; color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;财务对账与报表&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="80" width="250" x="283" y="1800" as="geometry" />
