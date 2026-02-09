@@ -127,7 +127,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aK7_PidGkH4elXU46YM5" name="青岛恒星集团业务结构框架">
-    <mxGraphModel dx="3367" dy="919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2653" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -335,7 +335,7 @@
             <mxPoint x="953" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HoqatefbmdRKN-g5JdLL-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6F8E6;strokeColor=default;glass=0;shadow=0;opacity=80;perimeterSpacing=0;" value="" vertex="1">
+        <mxCell id="HoqatefbmdRKN-g5JdLL-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6F8E6;strokeColor=#61C961;glass=0;shadow=0;opacity=80;perimeterSpacing=0;" value="" vertex="1">
           <mxGeometry height="172.5" width="280" x="353" y="1247.5" as="geometry" />
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;缴费明细查询&lt;/span&gt;" vertex="1">
@@ -363,7 +363,7 @@
           <mxGeometry height="30" width="230" x="658" y="1195" as="geometry" />
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;缴费后台&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="448" y="1267.5" as="geometry" />
+          <mxGeometry height="30" width="90" x="358" y="1255" as="geometry" />
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;校园一户通后台&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="140" x="1049.75" y="1280" as="geometry" />
