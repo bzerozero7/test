@@ -127,7 +127,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aK7_PidGkH4elXU46YM5" name="青岛恒星集团业务结构框架">
-    <mxGraphModel dx="4052" dy="1286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2481" dy="443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -316,24 +316,6 @@
             <mxPoint x="960.2600000000002" y="1109" as="sourcePoint" />
             <mxPoint x="960" y="1169" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="pyTbM5GMZS-kGWHhoBbo-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="-590" y="430" as="geometry" />
-        </mxCell>
-        <mxCell id="pyTbM5GMZS-kGWHhoBbo-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="-750" y="556.94" as="geometry" />
-        </mxCell>
-        <mxCell id="pyTbM5GMZS-kGWHhoBbo-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="-470" y="430" as="geometry" />
-        </mxCell>
-        <mxCell id="pyTbM5GMZS-kGWHhoBbo-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="-350" y="430" as="geometry" />
-        </mxCell>
-        <mxCell id="pyTbM5GMZS-kGWHhoBbo-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="-230" y="430" as="geometry" />
-        </mxCell>
-        <mxCell id="pyTbM5GMZS-kGWHhoBbo-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="-110" y="430" as="geometry" />
         </mxCell>
         <mxCell id="pyTbM5GMZS-kGWHhoBbo-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D8F3D8;strokeColor=#61C961;" value="&lt;b style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;平&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;台&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;整&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;合&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;与&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;查&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;询&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="295.56" width="80" x="178" y="1424.16" as="geometry" />
