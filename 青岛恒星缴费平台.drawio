@@ -127,7 +127,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aK7_PidGkH4elXU46YM5" name="青岛恒星集团业务结构框架">
-    <mxGraphModel dx="4052" dy="1286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3652" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -695,7 +695,7 @@
         <mxCell id="TlW5Ntq0p5Irzo8IPR0V-82" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FBE9D0;strokeColor=#D49A5C;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;分权查看&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="762.5" width="40" x="1590" y="1417.5" as="geometry" />
         </mxCell>
-        <mxCell id="TlW5Ntq0p5Irzo8IPR0V-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FBE9D0;strokeColor=#D49A5C;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;分权查看&lt;/b&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="TlW5Ntq0p5Irzo8IPR0V-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FBE9D0;strokeColor=#D49A5C;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;分权管理&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="86.53" width="180" x="1640" y="1463.47" as="geometry" />
         </mxCell>
         <mxCell id="TlW5Ntq0p5Irzo8IPR0V-85" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2D6E8;strokeColor=#401646;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 20px;&quot;&gt;到账归属信息&lt;/span&gt;&lt;/div&gt;" vertex="1">
@@ -727,6 +727,9 @@
             <mxPoint x="1130" y="1674" as="sourcePoint" />
             <mxPoint x="1130" y="1754" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TlW5Ntq0p5Irzo8IPR0V-139" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FBE9D0;strokeColor=#D49A5C;" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;汇透明细&lt;/span&gt;" vertex="1">
+          <mxGeometry height="86.53" width="180" x="1640" y="1667" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
