@@ -127,7 +127,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aK7_PidGkH4elXU46YM5" name="青岛恒星集团业务结构框架">
-    <mxGraphModel dx="3065" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3652" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -645,10 +645,10 @@
           <mxGeometry height="64.21" width="285" x="695" y="2284.21" as="geometry" />
         </mxCell>
         <mxCell id="xIr0DgueuHaz4jzKNPyb-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#528ED3;" value="" vertex="1">
-          <mxGeometry height="285.79" width="285" x="1025" y="2284.21" as="geometry" />
+          <mxGeometry height="285.79" width="285" x="1065.5" y="2284.21" as="geometry" />
         </mxCell>
         <mxCell id="xIr0DgueuHaz4jzKNPyb-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#528ED3;strokeColor=none;" value="&lt;span style=&quot;font-size: 20px; text-align: left;&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;集团统一财务报表&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="64.21" width="285" x="1025" y="2284.21" as="geometry" />
+          <mxGeometry height="64.21" width="285" x="1065.5" y="2284.21" as="geometry" />
         </mxCell>
         <mxCell id="xIr0DgueuHaz4jzKNPyb-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;缴费平台对账&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="155" x="725" y="2370" as="geometry" />
@@ -663,16 +663,16 @@
           <mxGeometry height="40" width="170" x="729.5" y="2520" as="geometry" />
         </mxCell>
         <mxCell id="xIr0DgueuHaz4jzKNPyb-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;收入汇总报表&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="155" x="1042.5" y="2369.21" as="geometry" />
+          <mxGeometry height="30" width="155" x="1083" y="2369.21" as="geometry" />
         </mxCell>
         <mxCell id="xIr0DgueuHaz4jzKNPyb-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;项目 / 学校 / 场景统计&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="202.5" x="1042.5" y="2420" as="geometry" />
+          <mxGeometry height="30" width="202.5" x="1083" y="2420" as="geometry" />
         </mxCell>
         <mxCell id="xIr0DgueuHaz4jzKNPyb-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;日 / 月 / 年维度统计&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="189.21" x="1042.5" y="2470" as="geometry" />
+          <mxGeometry height="30" width="189.21" x="1083" y="2470" as="geometry" />
         </mxCell>
         <mxCell id="xIr0DgueuHaz4jzKNPyb-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;多平台数据对接汇总&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="199.21" x="1042.5" y="2520" as="geometry" />
+          <mxGeometry height="30" width="199.21" x="1083" y="2520" as="geometry" />
         </mxCell>
         <mxCell id="xIr0DgueuHaz4jzKNPyb-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;缴费平台&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;一户通平台&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="45" width="146" x="745" y="1077.5" as="geometry" />
