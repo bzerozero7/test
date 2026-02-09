@@ -132,7 +132,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pyTbM5GMZS-kGWHhoBbo-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#A8800E;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="550" width="1292" x="188.5" y="2360" as="geometry" />
+          <mxGeometry height="550" width="1292" x="214" y="2360" as="geometry" />
         </mxCell>
         <mxCell id="pyTbM5GMZS-kGWHhoBbo-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#401646;fillColor=none;" value="" vertex="1">
           <mxGeometry height="550" width="1282" x="178" y="1730" as="geometry" />
@@ -746,11 +746,20 @@
             <mxPoint x="-262" y="1039" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pyTbM5GMZS-kGWHhoBbo-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FDF4CE;strokeColor=#A8800E;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;1&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="250" width="513" x="347" y="2440" as="geometry" />
+        <mxCell id="pyTbM5GMZS-kGWHhoBbo-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FDF4CE;strokeColor=#A8800E;" value="" vertex="1">
+          <mxGeometry height="410" width="223" x="347" y="2440" as="geometry" />
         </mxCell>
         <mxCell id="pyTbM5GMZS-kGWHhoBbo-74" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;平台架构&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="110" x="353" y="2450" as="geometry" />
+        </mxCell>
+        <mxCell id="pyTbM5GMZS-kGWHhoBbo-75" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FDF4CE;strokeColor=#A8800E;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;B/S架构&lt;/font&gt;" vertex="1">
+          <mxGeometry height="72.1" width="153" x="373" y="2500" as="geometry" />
+        </mxCell>
+        <mxCell id="pyTbM5GMZS-kGWHhoBbo-76" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FDF4CE;strokeColor=#A8800E;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;B/S架构&lt;/font&gt;" vertex="1">
+          <mxGeometry height="72.1" width="153" x="373" y="2593.69" as="geometry" />
+        </mxCell>
+        <mxCell id="pyTbM5GMZS-kGWHhoBbo-77" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FDF4CE;strokeColor=#A8800E;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;负载均衡&lt;/span&gt;" vertex="1">
+          <mxGeometry height="72.1" width="153" x="373" y="2707.9" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
