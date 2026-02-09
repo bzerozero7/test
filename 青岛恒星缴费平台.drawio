@@ -127,7 +127,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aK7_PidGkH4elXU46YM5" name="青岛恒星集团业务结构框架">
-    <mxGraphModel dx="3567" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3977" dy="1214" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -141,7 +141,7 @@
           <mxGeometry height="370" width="1602" x="258" y="2350" as="geometry" />
         </mxCell>
         <mxCell id="pyTbM5GMZS-kGWHhoBbo-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#401646;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="550" width="1282" x="178" y="1730" as="geometry" />
+          <mxGeometry height="550" width="1992" x="178" y="1730" as="geometry" />
         </mxCell>
         <mxCell id="pyTbM5GMZS-kGWHhoBbo-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#61C961;" value="" vertex="1">
           <mxGeometry height="545.56" width="1282" x="178" y="1154.44" as="geometry" />
@@ -781,6 +781,42 @@
         </mxCell>
         <mxCell id="TlW5Ntq0p5Irzo8IPR0V-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2D6E8;strokeColor=#401646;" value="&lt;span style=&quot;font-size: 20px; text-align: left;&quot;&gt;异户到账区分&lt;/span&gt;" vertex="1">
           <mxGeometry height="72.61" width="242" x="827" y="1780" as="geometry" />
+        </mxCell>
+        <mxCell id="TlW5Ntq0p5Irzo8IPR0V-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2D6E8;strokeColor=#401646;" value="" vertex="1">
+          <mxGeometry height="130" width="1119" x="271" y="1885.26" as="geometry" />
+        </mxCell>
+        <mxCell id="TlW5Ntq0p5Irzo8IPR0V-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2D6E8;strokeColor=#401646;" value="&lt;span style=&quot;font-size: 20px; text-align: left;&quot;&gt;缴费平台对账&lt;/span&gt;" vertex="1">
+          <mxGeometry height="72.61" width="242" x="294" y="1925.26" as="geometry" />
+        </mxCell>
+        <mxCell id="TlW5Ntq0p5Irzo8IPR0V-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;平台对账汇总&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="195.5" x="281" y="1895.26" as="geometry" />
+        </mxCell>
+        <mxCell id="TlW5Ntq0p5Irzo8IPR0V-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2D6E8;strokeColor=#401646;" value="&lt;span style=&quot;font-size: 20px; text-align: left;&quot;&gt;校园一户通对账&lt;/span&gt;" vertex="1">
+          <mxGeometry height="72.61" width="242" x="561" y="1925.26" as="geometry" />
+        </mxCell>
+        <mxCell id="TlW5Ntq0p5Irzo8IPR0V-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2D6E8;strokeColor=#401646;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;支付通道对账&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;（微信/支付宝/银行）&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="72.61" width="242" x="828" y="1925.26" as="geometry" />
+        </mxCell>
+        <mxCell id="TlW5Ntq0p5Irzo8IPR0V-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2D6E8;strokeColor=#401646;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;资金差异核对&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="72.61" width="242" x="1100" y="1926.59" as="geometry" />
+        </mxCell>
+        <mxCell id="TlW5Ntq0p5Irzo8IPR0V-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2D6E8;strokeColor=#401646;" value="" vertex="1">
+          <mxGeometry height="130" width="1119" x="270" y="2037.9" as="geometry" />
+        </mxCell>
+        <mxCell id="TlW5Ntq0p5Irzo8IPR0V-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2D6E8;strokeColor=#401646;" value="&lt;span style=&quot;font-size: 20px; text-align: left;&quot;&gt;收入汇总报表&lt;/span&gt;" vertex="1">
+          <mxGeometry height="72.61" width="242" x="293" y="2077.9" as="geometry" />
+        </mxCell>
+        <mxCell id="TlW5Ntq0p5Irzo8IPR0V-63" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;集团统一财务报表&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="195.5" x="280" y="2047.9" as="geometry" />
+        </mxCell>
+        <mxCell id="TlW5Ntq0p5Irzo8IPR0V-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2D6E8;strokeColor=#401646;" value="&lt;span style=&quot;font-size: 20px; text-align: left;&quot;&gt;项目 / 学校 / 场景统计&lt;/span&gt;" vertex="1">
+          <mxGeometry height="72.61" width="242" x="560" y="2077.9" as="geometry" />
+        </mxCell>
+        <mxCell id="TlW5Ntq0p5Irzo8IPR0V-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2D6E8;strokeColor=#401646;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;日 / 月 / 年维度统计&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="72.61" width="242" x="827" y="2077.9" as="geometry" />
+        </mxCell>
+        <mxCell id="TlW5Ntq0p5Irzo8IPR0V-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2D6E8;strokeColor=#401646;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;多平台数据对接汇总&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="72.61" width="242" x="1099" y="2079.23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
