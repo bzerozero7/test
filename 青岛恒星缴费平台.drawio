@@ -127,7 +127,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aK7_PidGkH4elXU46YM5" name="青岛恒星集团业务结构框架">
-    <mxGraphModel dx="1208" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2525" dy="1336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -154,15 +154,6 @@
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D8F3D8;glass=0;shadow=0;opacity=80;perimeterSpacing=0;strokeColor=#000000;" value="" vertex="1">
           <mxGeometry height="360" width="1130" x="300" y="1350" as="geometry" />
-        </mxCell>
-        <mxCell id="LhImREDXDQHtOeX2MV6Z-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;学生&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="167.5" x="122.5" y="775" as="geometry" />
-        </mxCell>
-        <mxCell id="LhImREDXDQHtOeX2MV6Z-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;集团员工/企业用户&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="167.5" x="121.5" y="910" as="geometry" />
-        </mxCell>
-        <mxCell id="LhImREDXDQHtOeX2MV6Z-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;其它用户&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="167.5" x="122.5" y="970" as="geometry" />
         </mxCell>
         <mxCell id="LhImREDXDQHtOeX2MV6Z-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1F4E79;strokeColor=none;gradientColor=none;gradientDirection=radial;" value="&lt;font style=&quot;font-size: 43px; color: rgb(255, 255, 255);&quot;&gt;恒星集团大平台架构&lt;/font&gt;" vertex="1">
           <mxGeometry height="70" width="1760" x="260" y="310" as="geometry" />
@@ -193,9 +184,6 @@
         </mxCell>
         <mxCell id="LhImREDXDQHtOeX2MV6Z-95" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;线上支付&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="110" x="300" y="700" as="geometry" />
-        </mxCell>
-        <mxCell id="zxiQlcMIKWTRIAHEgQNq-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;教职工&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="167.5" x="122.5" y="837.5" as="geometry" />
         </mxCell>
         <mxCell id="zxiQlcMIKWTRIAHEgQNq-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=default;" value="" vertex="1">
           <mxGeometry height="60" width="380" x="290" y="620" as="geometry" />
@@ -378,7 +366,7 @@
           <mxGeometry height="30" width="90" x="608" y="1465" as="geometry" />
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;校园一户通后台&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="140" x="994.5" y="1475" as="geometry" />
+          <mxGeometry height="30" width="140" x="1004.75" y="1470" as="geometry" />
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;分账规则配置&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="663" y="1515" as="geometry" />
