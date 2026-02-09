@@ -644,12 +644,6 @@
         <mxCell id="AfYXA4k5zn5zdgvh_gUN-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;缴费、支付&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="245" x="1160.5" y="1077.5" as="geometry" />
         </mxCell>
-        <mxCell id="AfYXA4k5zn5zdgvh_gUN-17" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=0;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="AfYXA4k5zn5zdgvh_gUN-15" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="521" y="1092.08" as="sourcePoint" />
-            <mxPoint x="778" y="1092.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1_K06k1iXodh8OBssuwN-1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="360" y="1070" as="sourcePoint" />
