@@ -722,6 +722,12 @@
         <mxCell id="TlW5Ntq0p5Irzo8IPR0V-146" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6F6FF;strokeColor=#2668BE;gradientColor=none;glass=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;支付渠道/银行&lt;/span&gt;&lt;span style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;处理&lt;/span&gt;" vertex="1">
           <mxGeometry height="70" width="170" x="1484" y="879" as="geometry" />
         </mxCell>
+        <mxCell id="TlW5Ntq0p5Irzo8IPR0V-147" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6F6FF;strokeColor=#2668BE;gradientColor=none;glass=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;分账清算&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="170" x="1484" y="1001.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TlW5Ntq0p5Irzo8IPR0V-148" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6F6FF;strokeColor=#2668BE;gradientColor=none;glass=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;企业/学校对公账户&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="170" x="1484" y="1166.94" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
