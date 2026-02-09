@@ -668,8 +668,8 @@
         <mxCell id="TlW5Ntq0p5Irzo8IPR0V-181" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;线&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;上&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;支&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;付&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="81.94" width="24.5" x="583" y="1028.6200000000001" as="geometry" />
         </mxCell>
-        <mxCell id="TlW5Ntq0p5Irzo8IPR0V-182" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;缴费入口&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="570" y="953.47" as="geometry" />
+        <mxCell id="TlW5Ntq0p5Irzo8IPR0V-182" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;缴费入口&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="570" y="956.5" as="geometry" />
         </mxCell>
         <mxCell id="TlW5Ntq0p5Irzo8IPR0V-183" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;校园一户通&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="860" y="953.47" as="geometry" />
