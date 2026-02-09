@@ -153,7 +153,7 @@
           <mxGeometry height="70" width="1760" x="258" y="425" as="geometry" />
         </mxCell>
         <mxCell id="LhImREDXDQHtOeX2MV6Z-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2668BE;strokeColor=#F5F5F5;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 40px;&quot;&gt;&lt;b style=&quot;&quot;&gt;集团支付与消费&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="562.23" width="80" x="40" y="890" as="geometry" />
+          <mxGeometry height="513.06" width="80" x="178" y="616.94" as="geometry" />
         </mxCell>
         <mxCell id="LhImREDXDQHtOeX2MV6Z-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2668BE;strokeColor=#F5F5F5;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;平台整合与查询&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="102.23" width="1170" x="260" y="1350" as="geometry" />
