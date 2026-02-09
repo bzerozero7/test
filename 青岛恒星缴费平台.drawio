@@ -728,6 +728,12 @@
         <mxCell id="TlW5Ntq0p5Irzo8IPR0V-132" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6F6FF;strokeColor=#2668BE;gradientColor=none;glass=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;支付宝支付&lt;/span&gt;" vertex="1">
           <mxGeometry height="70" width="242" x="648" y="944.44" as="geometry" />
         </mxCell>
+        <mxCell id="TlW5Ntq0p5Irzo8IPR0V-133" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6F6FF;strokeColor=#2668BE;gradientColor=none;glass=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;校园一户通平台&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="242" x="1388" y="1166.94" as="geometry" />
+        </mxCell>
+        <mxCell id="TlW5Ntq0p5Irzo8IPR0V-134" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6F6FF;strokeColor=#2668BE;gradientColor=none;glass=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;缴费平台&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="242" x="1398" y="1264.44" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
