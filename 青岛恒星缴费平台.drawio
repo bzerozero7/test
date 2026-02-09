@@ -127,7 +127,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aK7_PidGkH4elXU46YM5" name="青岛恒星集团业务结构框架">
-    <mxGraphModel dx="3652" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3253" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -717,16 +717,34 @@
           <mxGeometry height="30" width="60" x="1714" y="2087.9" as="geometry" />
         </mxCell>
         <mxCell id="TlW5Ntq0p5Irzo8IPR0V-145" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6F6FF;strokeColor=#2668BE;gradientColor=none;glass=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;用户支付&lt;/span&gt;" vertex="1">
-          <mxGeometry height="70" width="170" x="1480" y="749" as="geometry" />
+          <mxGeometry height="70" width="170" x="1480" y="659" as="geometry" />
         </mxCell>
         <mxCell id="TlW5Ntq0p5Irzo8IPR0V-146" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6F6FF;strokeColor=#2668BE;gradientColor=none;glass=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;支付渠道/银行&lt;/span&gt;&lt;span style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;处理&lt;/span&gt;" vertex="1">
-          <mxGeometry height="70" width="170" x="1484" y="879" as="geometry" />
+          <mxGeometry height="70" width="170" x="1480" y="754" as="geometry" />
         </mxCell>
         <mxCell id="TlW5Ntq0p5Irzo8IPR0V-147" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6F6FF;strokeColor=#2668BE;gradientColor=none;glass=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;分账清算&lt;/span&gt;" vertex="1">
-          <mxGeometry height="70" width="170" x="1484" y="1001.5" as="geometry" />
+          <mxGeometry height="70" width="170" x="1480" y="849" as="geometry" />
         </mxCell>
         <mxCell id="TlW5Ntq0p5Irzo8IPR0V-148" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6F6FF;strokeColor=#2668BE;gradientColor=none;glass=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;企业/学校对公账户&lt;/span&gt;" vertex="1">
-          <mxGeometry height="70" width="170" x="1484" y="1166.94" as="geometry" />
+          <mxGeometry height="70" width="170" x="1480" y="944.44" as="geometry" />
+        </mxCell>
+        <mxCell id="TlW5Ntq0p5Irzo8IPR0V-149" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#DBEBFA;strokeColor=default;startSize=3;endSize=3;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1564.77" y="720" as="sourcePoint" />
+            <mxPoint x="1564.77" y="759" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TlW5Ntq0p5Irzo8IPR0V-152" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#DBEBFA;strokeColor=default;startSize=3;endSize=3;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1564.77" y="819" as="sourcePoint" />
+            <mxPoint x="1564.77" y="858" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TlW5Ntq0p5Irzo8IPR0V-153" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#DBEBFA;strokeColor=default;startSize=3;endSize=3;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1564.77" y="911.5" as="sourcePoint" />
+            <mxPoint x="1564.77" y="950.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
