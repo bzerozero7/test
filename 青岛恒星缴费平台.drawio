@@ -127,7 +127,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aK7_PidGkH4elXU46YM5" name="青岛恒星集团业务结构框架">
-    <mxGraphModel dx="2916" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3153" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -795,10 +795,10 @@
           <mxGeometry height="30" width="110" x="-785" y="1288.47" as="geometry" />
         </mxCell>
         <mxCell id="TlW5Ntq0p5Irzo8IPR0V-182" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;缴费入口&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="-610" y="1166.94" as="geometry" />
+          <mxGeometry height="30" width="90" x="-615.5" y="1210" as="geometry" />
         </mxCell>
         <mxCell id="TlW5Ntq0p5Irzo8IPR0V-183" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;校园一户通&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="-200" y="1166.94" as="geometry" />
+          <mxGeometry height="30" width="90" x="-200" y="1210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
