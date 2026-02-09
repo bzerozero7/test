@@ -165,7 +165,7 @@
           <mxGeometry height="102.23" width="250" x="289" y="1200" as="geometry" />
         </mxCell>
         <mxCell id="LhImREDXDQHtOeX2MV6Z-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#F5F5F5;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;财务对账与报表&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="250" x="315.5" y="1880" as="geometry" />
+          <mxGeometry height="80" width="250" x="283" y="1800" as="geometry" />
         </mxCell>
         <mxCell id="LhImREDXDQHtOeX2MV6Z-72" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#F5F5F5;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;平台支持与扩展能力&lt;/span&gt;" vertex="1">
           <mxGeometry height="70" width="390" x="289" y="2339.21" as="geometry" />
@@ -459,22 +459,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-76" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="260" width="200" x="495" y="2000" as="geometry" />
+          <mxGeometry height="260" width="200" x="495" y="1914.21" as="geometry" />
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-77" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;资金到账时标识&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;D0当日到账&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;T+1次日到账&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;到账状态标识&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;异户到账区分&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="170" width="170" x="515" y="2020" as="geometry" />
+          <mxGeometry height="170" width="170" x="515" y="1934.21" as="geometry" />
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-78" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="260" width="200" x="760" y="2000" as="geometry" />
+          <mxGeometry height="260" width="200" x="760" y="1914.21" as="geometry" />
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-79" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;跨平台对账汇总&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;缴费平台对账&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;校园一户通对账&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;支付通道对账（微信/支付宝/银行）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;资金差异核对&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="170" width="170" x="780" y="2027.11" as="geometry" />
+          <mxGeometry height="170" width="170" x="780" y="1941.32" as="geometry" />
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-80" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="260" width="200" x="1025" y="2000" as="geometry" />
+          <mxGeometry height="260" width="200" x="1025" y="1914.21" as="geometry" />
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-81" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;集团统一财务报表&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;收入汇总报表&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;项目/学校/场景统计&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;日 / 月 / 年维度统计&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;多平台数据汇总&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="170" width="190" x="1045" y="2020" as="geometry" />
+          <mxGeometry height="170" width="190" x="1045" y="1934.21" as="geometry" />
         </mxCell>
         <mxCell id="HoqatefbmdRKN-g5JdLL-82" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
           <mxGeometry height="910" width="539" x="1560" y="990" as="geometry" />
