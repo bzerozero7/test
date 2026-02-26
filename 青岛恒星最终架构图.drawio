@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.5.4">
   <diagram name="青岛恒星集团业务结构框架" id="yp_AGIM_3_SwWZT4YR8k">
-    <mxGraphModel dx="1043" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="888" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -434,7 +434,7 @@
           <mxGeometry height="70" width="170" x="1640" y="1386.5" as="geometry" />
         </mxCell>
         <mxCell id="v9jnIE8e1cHd65QEf_cg-137" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6F6FF;strokeColor=#2668BE;gradientColor=none;glass=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;资金流向&lt;/span&gt;" vertex="1">
-          <mxGeometry height="70" width="270" x="1590" y="880" as="geometry" />
+          <mxGeometry height="70" width="270" x="1591" y="880" as="geometry" />
         </mxCell>
         <mxCell id="v9jnIE8e1cHd65QEf_cg-138" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#DBEBFA;strokeColor=default;entryX=0.283;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
