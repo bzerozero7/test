@@ -347,7 +347,7 @@
           <mxGeometry height="190" width="1402" x="178" y="1781" as="geometry" />
         </mxCell>
         <mxCell id="v9jnIE8e1cHd65QEf_cg-108" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#61C961;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;支&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;b style=&quot;font-size: 24px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;付&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-size: 24px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;接&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-size: 24px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;口&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="190" width="80" x="178" y="1780" as="geometry" />
+          <mxGeometry height="190" width="80" x="178" y="1781" as="geometry" />
         </mxCell>
         <mxCell id="v9jnIE8e1cHd65QEf_cg-109" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="63.05" width="209" x="281" y="1803.95" as="geometry" />
