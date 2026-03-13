@@ -1714,7 +1714,22 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XmM3zKm_ntF9ibsjnRTs-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2D6E8;strokeColor=#401646;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;云端管理平台&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="70" width="210" x="160" y="670" as="geometry" />
+          <mxGeometry height="70" width="210" x="50" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="bPWaW7mQqZYkLjNllaaE-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2D6E8;strokeColor=#401646;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;移动支付系统&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="210" x="330" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="bPWaW7mQqZYkLjNllaaE-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2D6E8;strokeColor=#401646;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;智能设备终端&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="210" x="590" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="bPWaW7mQqZYkLjNllaaE-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2D6E8;strokeColor=#401646;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;数据分析&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="210" x="50" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="bPWaW7mQqZYkLjNllaaE-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2D6E8;strokeColor=#401646;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;用户身份验证&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="210" x="330" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="bPWaW7mQqZYkLjNllaaE-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2D6E8;strokeColor=#401646;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;设备状态监控&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="210" x="590" y="700" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
