@@ -605,6 +605,18 @@
         <mxCell id="ieVhV76w8oX-cDsWcRxn-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FBE9D0;strokeColor=#D49A5C;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;BOT项目&lt;/span&gt;" vertex="1">
           <mxGeometry height="46.53" width="150" x="1080" y="280" as="geometry" />
         </mxCell>
+        <mxCell id="ieVhV76w8oX-cDsWcRxn-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FBE9D0;strokeColor=#D49A5C;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;洗衣机&lt;/span&gt;" vertex="1">
+          <mxGeometry height="46.53" width="150" x="870" y="623.47" as="geometry" />
+        </mxCell>
+        <mxCell id="ieVhV76w8oX-cDsWcRxn-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FBE9D0;strokeColor=#D49A5C;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;吹风机&lt;/span&gt;" vertex="1">
+          <mxGeometry height="46.53" width="150" x="1100" y="623.47" as="geometry" />
+        </mxCell>
+        <mxCell id="ieVhV76w8oX-cDsWcRxn-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FBE9D0;strokeColor=#D49A5C;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;饮水机&lt;/span&gt;" vertex="1">
+          <mxGeometry height="46.53" width="150" x="1320" y="623.47" as="geometry" />
+        </mxCell>
+        <mxCell id="ieVhV76w8oX-cDsWcRxn-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FBE9D0;strokeColor=#D49A5C;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;控制器&lt;/span&gt;" vertex="1">
+          <mxGeometry height="46.53" width="150" x="1504" y="623.47" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
