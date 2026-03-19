@@ -584,6 +584,9 @@
         <mxCell id="3cmlkBEUxPCBiZCj_0QU-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6F8E6;gradientColor=none;strokeColor=#61C961;" value="校园生活服务平台SaaS高校板" vertex="1">
           <mxGeometry height="60" width="210" x="240" y="300" as="geometry" />
         </mxCell>
+        <mxCell id="UGWANvCk-xpBOm1eCmqB-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6F6FF;strokeColor=#2668BE;gradientColor=none;glass=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;缴费平台&lt;/span&gt;" vertex="1">
+          <mxGeometry height="65.56" width="170" x="550" y="290" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
