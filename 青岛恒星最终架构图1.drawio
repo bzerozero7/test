@@ -632,6 +632,11 @@
         <mxCell id="ieVhV76w8oX-cDsWcRxn-13" edge="1" parent="1" source="ieVhV76w8oX-cDsWcRxn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ieVhV76w8oX-cDsWcRxn-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ieVhV76w8oX-cDsWcRxn-14" connectable="0" parent="ieVhV76w8oX-cDsWcRxn-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="can总线" vertex="1">
+          <mxGeometry relative="1" x="0.0254" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ieVhV76w8oX-cDsWcRxn-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FBE9D0;strokeColor=#D49A5C;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;网关&lt;/span&gt;" vertex="1">
           <mxGeometry height="46.53" width="150" x="1350" y="576.73" as="geometry" />
         </mxCell>
