@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.5">
   <diagram name="第 1 页" id="MK6SSzjC36yvfFCF1fK5">
-    <mxGraphModel dx="1043" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2664" dy="1429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
           <mxGeometry height="60" width="210" x="375" y="525" as="geometry" />
         </mxCell>
         <mxCell id="h3VhXvbSsGaJFJn4wbBL-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FBE9D0;strokeColor=#D49A5C;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;BOT项目&lt;/span&gt;" vertex="1">
-          <mxGeometry height="46.53" width="150" x="1654" y="270" as="geometry" />
+          <mxGeometry height="46.53" width="150" x="870" y="150" as="geometry" />
         </mxCell>
         <mxCell id="h3VhXvbSsGaJFJn4wbBL-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FBE9D0;strokeColor=#D49A5C;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;洗衣机&lt;/span&gt;" vertex="1">
           <mxGeometry height="46.53" width="150" x="1250" y="800" as="geometry" />
