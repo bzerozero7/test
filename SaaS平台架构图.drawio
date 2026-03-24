@@ -48,6 +48,11 @@
         <mxCell id="h3VhXvbSsGaJFJn4wbBL-14" edge="1" parent="1" source="h3VhXvbSsGaJFJn4wbBL-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="h3VhXvbSsGaJFJn4wbBL-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="FhE1tExtXnJt54ENcjYK-14" connectable="0" parent="h3VhXvbSsGaJFJn4wbBL-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Zigbee&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.405" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FhE1tExtXnJt54ENcjYK-10" edge="1" parent="1" source="h3VhXvbSsGaJFJn4wbBL-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="FhE1tExtXnJt54ENcjYK-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -95,11 +100,22 @@
         <mxCell id="FhE1tExtXnJt54ENcjYK-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FBE9D0;strokeColor=#D49A5C;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;控制器&lt;/span&gt;" vertex="1">
           <mxGeometry height="46.53" width="150" x="1645" y="670" as="geometry" />
         </mxCell>
+        <mxCell id="FhE1tExtXnJt54ENcjYK-15" edge="1" parent="1" source="FhE1tExtXnJt54ENcjYK-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="FhE1tExtXnJt54ENcjYK-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FhE1tExtXnJt54ENcjYK-16" connectable="0" parent="FhE1tExtXnJt54ENcjYK-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Zigbee&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0463" y="-4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FhE1tExtXnJt54ENcjYK-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FBE9D0;strokeColor=#D49A5C;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;控制器&lt;/span&gt;" vertex="1">
           <mxGeometry height="46.53" width="150" x="1860" y="670" as="geometry" />
         </mxCell>
         <mxCell id="FhE1tExtXnJt54ENcjYK-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FBE9D0;strokeColor=#D49A5C;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;饮水机&lt;/span&gt;" vertex="1">
           <mxGeometry height="46.53" width="150" x="1620" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="FhE1tExtXnJt54ENcjYK-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FBE9D0;strokeColor=#D49A5C;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;饮水机&lt;/span&gt;" vertex="1">
+          <mxGeometry height="46.53" width="150" x="1860" y="800" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
