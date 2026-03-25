@@ -281,13 +281,16 @@
           <mxGeometry height="30" width="85" x="67.5" y="10" as="geometry" />
         </mxCell>
         <mxCell id="9MU50DG3dkS6lhwLgm7K-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FBE9D0;strokeColor=#D49A5C;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;饮水机&lt;/span&gt;" vertex="1">
-          <mxGeometry height="46.53" width="150" x="1470" y="2360" as="geometry" />
+          <mxGeometry height="46.53" width="150" x="1600" y="2370" as="geometry" />
         </mxCell>
         <mxCell id="9MU50DG3dkS6lhwLgm7K-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FBE9D0;strokeColor=#D49A5C;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;控制器&lt;/span&gt;" vertex="1">
-          <mxGeometry height="46.53" width="150" x="1640" y="2520" as="geometry" />
+          <mxGeometry height="46.53" width="150" x="1600" y="2470" as="geometry" />
         </mxCell>
         <mxCell id="9MU50DG3dkS6lhwLgm7K-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FBE9D0;strokeColor=#D49A5C;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;控制器&lt;/span&gt;" vertex="1">
-          <mxGeometry height="46.53" width="150" x="1241" y="2530" as="geometry" />
+          <mxGeometry height="46.53" width="150" x="1400" y="2470" as="geometry" />
+        </mxCell>
+        <mxCell id="9MU50DG3dkS6lhwLgm7K-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FBE9D0;strokeColor=#D49A5C;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;控制器&lt;/span&gt;" vertex="1">
+          <mxGeometry height="46.53" width="150" x="1804" y="2470" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
