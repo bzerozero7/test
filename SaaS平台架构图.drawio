@@ -196,6 +196,9 @@
         <mxCell id="9MU50DG3dkS6lhwLgm7K-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="洗鞋机" vertex="1">
           <mxGeometry height="30" width="70" x="2630" y="1080" as="geometry" />
         </mxCell>
+        <mxCell id="9MU50DG3dkS6lhwLgm7K-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="品牌：创维，美的等" vertex="1">
+          <mxGeometry height="30" width="120" x="2440" y="1120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
