@@ -253,6 +253,9 @@
         <mxCell id="9MU50DG3dkS6lhwLgm7K-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="最多5-6台" vertex="1">
           <mxGeometry height="30" width="60" x="1330" y="730" as="geometry" />
         </mxCell>
+        <mxCell id="9MU50DG3dkS6lhwLgm7K-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="理论32个，一般20多个" vertex="1">
+          <mxGeometry height="30" width="150" x="1500" y="546.74" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
