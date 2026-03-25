@@ -230,10 +230,10 @@
           <mxGeometry height="30" width="60" x="3413.27" y="401.73" as="geometry" />
         </mxCell>
         <mxCell id="9MU50DG3dkS6lhwLgm7K-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FBE9D0;strokeColor=#D49A5C;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;吹风机&lt;/span&gt;" vertex="1">
-          <mxGeometry height="46.53" width="150" x="510" y="2291" as="geometry" />
+          <mxGeometry height="46.53" width="150" x="1580" y="2170" as="geometry" />
         </mxCell>
         <mxCell id="9MU50DG3dkS6lhwLgm7K-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FBE9D0;strokeColor=#D49A5C;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;吹风机&lt;/span&gt;" vertex="1">
-          <mxGeometry height="46.53" width="150" x="520" y="2200" as="geometry" />
+          <mxGeometry height="46.53" width="150" x="1340" y="2170" as="geometry" />
         </mxCell>
         <mxCell id="9MU50DG3dkS6lhwLgm7K-27" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="150" width="280" x="420" y="2000" as="geometry" />
@@ -358,7 +358,7 @@
           <mxGeometry height="46.53" width="46.53" x="2041" y="1200" as="geometry" />
         </mxCell>
         <mxCell id="9MU50DG3dkS6lhwLgm7K-90" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FBE9D0;strokeColor=#D49A5C;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;网关&lt;/span&gt;" vertex="1">
-          <mxGeometry height="46.53" width="150" x="395" y="1840" as="geometry" />
+          <mxGeometry height="46.53" width="150" x="1470" y="2040" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
