@@ -191,7 +191,10 @@
           <mxGeometry height="30" width="70" x="2440" y="1080" as="geometry" />
         </mxCell>
         <mxCell id="9MU50DG3dkS6lhwLgm7K-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="波轮洗衣机" vertex="1">
-          <mxGeometry height="30" width="70" x="2530" y="1080" as="geometry" />
+          <mxGeometry height="30" width="70" x="2535" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="9MU50DG3dkS6lhwLgm7K-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="洗鞋机" vertex="1">
+          <mxGeometry height="30" width="70" x="2630" y="1080" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
