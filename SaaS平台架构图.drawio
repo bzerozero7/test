@@ -250,8 +250,8 @@
         <mxCell id="9MU50DG3dkS6lhwLgm7K-44" parent="9MU50DG3dkS6lhwLgm7K-27" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="自研，一套两个" vertex="1">
           <mxGeometry height="30" width="120" x="9" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="9MU50DG3dkS6lhwLgm7K-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;最多5-6台&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="110" x="1280" y="730" as="geometry" />
+        <mxCell id="9MU50DG3dkS6lhwLgm7K-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;控制器带最多5-6台&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="1240" y="680" as="geometry" />
         </mxCell>
         <mxCell id="9MU50DG3dkS6lhwLgm7K-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;理论带32个控制器，一般20多个&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="290" x="1810" y="480" as="geometry" />
