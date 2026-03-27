@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6" pages="2">
   <diagram name="第 1 页" id="EnuP5DnEO9HOV0WK9bHr">
     <mxGraphModel dx="1199" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -87,6 +87,77 @@
             <mxPoint x="1017" y="453" as="sourcePoint" />
             <mxPoint x="1017" y="390" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="UgJVevmDrcrNXxvA4Ya7" name="第 2 页">
+    <mxGraphModel dx="1199" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Fn7-24eshKZV2i9xH82O-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FDF4CE;strokeColor=#A8800E;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;选择机器，&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;扫码&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="74" width="140" x="230" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="Fn7-24eshKZV2i9xH82O-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FDF4CE;strokeColor=#A8800E;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;身份认证&lt;/font&gt;" vertex="1">
+          <mxGeometry height="74" width="140" x="230" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="Fn7-24eshKZV2i9xH82O-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FDF4CE;strokeColor=#A8800E;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;选择洗衣模式&lt;/font&gt;" vertex="1">
+          <mxGeometry height="74" width="140" x="230" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="Fn7-24eshKZV2i9xH82O-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FDF4CE;strokeColor=#A8800E;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;提交订单&lt;/font&gt;" vertex="1">
+          <mxGeometry height="74" width="140" x="230" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="Fn7-24eshKZV2i9xH82O-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FDF4CE;strokeColor=#A8800E;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;洗衣开始/结束&lt;/font&gt;" vertex="1">
+          <mxGeometry height="74" width="140" x="230" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="Fn7-24eshKZV2i9xH82O-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#A8800E;fillColor=#FDF4CE;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;系统&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="513.5" y="437" as="geometry" />
+        </mxCell>
+        <mxCell id="Fn7-24eshKZV2i9xH82O-8" edge="1" parent="1" source="Fn7-24eshKZV2i9xH82O-2" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;strokeWidth=2;" target="Fn7-24eshKZV2i9xH82O-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="540" y="670" as="sourcePoint" />
+            <mxPoint x="590" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fn7-24eshKZV2i9xH82O-9" edge="1" parent="1" source="Fn7-24eshKZV2i9xH82O-3" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="299.58000000000004" y="680" as="sourcePoint" />
+            <mxPoint x="299.58000000000004" y="634" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fn7-24eshKZV2i9xH82O-10" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="299.58000000000004" y="810" as="sourcePoint" />
+            <mxPoint x="299.58000000000004" y="764" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fn7-24eshKZV2i9xH82O-11" edge="1" parent="1" source="Fn7-24eshKZV2i9xH82O-5" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="299.58000000000004" y="930" as="sourcePoint" />
+            <mxPoint x="299.58000000000004" y="884" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fn7-24eshKZV2i9xH82O-12" edge="1" parent="1" source="Fn7-24eshKZV2i9xH82O-6" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="Fn7-24eshKZV2i9xH82O-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="530" y="450" as="sourcePoint" />
+            <mxPoint x="430" y="468" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fn7-24eshKZV2i9xH82O-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;智能洗衣控制系统流程图&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="320" x="413.5" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Fn7-24eshKZV2i9xH82O-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FDF4CE;strokeColor=#A8800E;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;PC端、微信小程序管理端&lt;/span&gt;" vertex="1">
+          <mxGeometry height="74" width="140" x="430" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="Fn7-24eshKZV2i9xH82O-18" edge="1" parent="1" source="Fn7-24eshKZV2i9xH82O-15" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" target="Fn7-24eshKZV2i9xH82O-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="630" y="616" as="sourcePoint" />
+            <mxPoint x="630" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fn7-24eshKZV2i9xH82O-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FDF4CE;strokeColor=#A8800E;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;支付宝小程序使用端&lt;/span&gt;" vertex="1">
+          <mxGeometry height="74" width="140" x="610" y="580" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
