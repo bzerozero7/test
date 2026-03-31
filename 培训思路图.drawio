@@ -11,7 +11,7 @@
           <mxGeometry height="60" width="120" x="340" y="290" as="geometry" />
         </mxCell>
         <mxCell id="s2h19QWSeS87sS0DPLyf-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="技术路线一" vertex="1">
-          <mxGeometry height="60" width="120" x="1121" y="240" as="geometry" />
+          <mxGeometry height="60" width="120" x="1090" y="350" as="geometry" />
         </mxCell>
         <mxCell id="s2h19QWSeS87sS0DPLyf-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="技术路线二" vertex="1">
           <mxGeometry height="60" width="120" x="1220" y="340" as="geometry" />
@@ -23,7 +23,13 @@
           <mxGeometry height="60" width="120" x="670" y="190" as="geometry" />
         </mxCell>
         <mxCell id="s2h19QWSeS87sS0DPLyf-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="产品介绍" vertex="1">
-          <mxGeometry height="60" width="120" x="1000" y="210" as="geometry" />
+          <mxGeometry height="60" width="120" x="1020" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="s2h19QWSeS87sS0DPLyf-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="软件" vertex="1">
+          <mxGeometry height="60" width="120" x="1230" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="s2h19QWSeS87sS0DPLyf-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="硬件" vertex="1">
+          <mxGeometry height="60" width="120" x="1070" y="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
