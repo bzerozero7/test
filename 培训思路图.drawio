@@ -19,6 +19,9 @@
         <mxCell id="s2h19QWSeS87sS0DPLyf-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="pos机产品" vertex="1">
           <mxGeometry height="60" width="120" x="630" y="390" as="geometry" />
         </mxCell>
+        <mxCell id="s2h19QWSeS87sS0DPLyf-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="销售政策" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="710" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
