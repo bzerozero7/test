@@ -1,35 +1,50 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6">
   <diagram name="第 1 页" id="Mk86JULjmpIF_UgvmE8K">
-    <mxGraphModel dx="1199" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2026" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="s2h19QWSeS87sS0DPLyf-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="690" width="560" x="470" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="s2h19QWSeS87sS0DPLyf-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
+          <mxGeometry height="780" width="560" x="1150" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="s2h19QWSeS87sS0DPLyf-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="" vertex="1">
+          <mxGeometry height="690" width="470" x="-130" y="120" as="geometry" />
+        </mxCell>
         <mxCell id="BWzHygazwUey5gmnjRgE-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="公司简介" vertex="1">
-          <mxGeometry height="60" width="120" x="340" y="190" as="geometry" />
+          <mxGeometry height="60" width="120" x="40" y="210" as="geometry" />
         </mxCell>
         <mxCell id="BWzHygazwUey5gmnjRgE-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="一户通与解决方案" vertex="1">
-          <mxGeometry height="60" width="120" x="340" y="290" as="geometry" />
+          <mxGeometry height="60" width="120" x="40" y="310" as="geometry" />
         </mxCell>
         <mxCell id="s2h19QWSeS87sS0DPLyf-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="技术路线一" vertex="1">
-          <mxGeometry height="60" width="120" x="1090" y="350" as="geometry" />
+          <mxGeometry height="60" width="120" x="1270" y="420" as="geometry" />
         </mxCell>
         <mxCell id="s2h19QWSeS87sS0DPLyf-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="技术路线二" vertex="1">
-          <mxGeometry height="60" width="120" x="1220" y="340" as="geometry" />
+          <mxGeometry height="60" width="120" x="1541" y="410" as="geometry" />
         </mxCell>
         <mxCell id="s2h19QWSeS87sS0DPLyf-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="pos机产品" vertex="1">
-          <mxGeometry height="60" width="120" x="940" y="330" as="geometry" />
+          <mxGeometry height="60" width="120" x="1340" y="500" as="geometry" />
         </mxCell>
         <mxCell id="s2h19QWSeS87sS0DPLyf-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="销售政策" vertex="1">
-          <mxGeometry height="60" width="120" x="670" y="190" as="geometry" />
+          <mxGeometry height="60" width="120" x="710" y="180" as="geometry" />
         </mxCell>
         <mxCell id="s2h19QWSeS87sS0DPLyf-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="产品介绍" vertex="1">
-          <mxGeometry height="60" width="120" x="1020" y="190" as="geometry" />
+          <mxGeometry height="60" width="120" x="1380" y="190" as="geometry" />
         </mxCell>
         <mxCell id="s2h19QWSeS87sS0DPLyf-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="软件" vertex="1">
-          <mxGeometry height="60" width="120" x="1230" y="260" as="geometry" />
+          <mxGeometry height="60" width="120" x="1500" y="250" as="geometry" />
         </mxCell>
         <mxCell id="s2h19QWSeS87sS0DPLyf-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="硬件" vertex="1">
-          <mxGeometry height="60" width="120" x="1070" y="270" as="geometry" />
+          <mxGeometry height="60" width="120" x="1260" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="s2h19QWSeS87sS0DPLyf-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="碰一碰pos机和平台" vertex="1">
+          <mxGeometry height="60" width="120" x="590" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="s2h19QWSeS87sS0DPLyf-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="BOT设备和平台" vertex="1">
+          <mxGeometry height="60" width="120" x="820" y="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
