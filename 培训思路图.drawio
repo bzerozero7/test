@@ -10,6 +10,15 @@
         <mxCell id="BWzHygazwUey5gmnjRgE-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="一户通与解决方案" vertex="1">
           <mxGeometry height="60" width="120" x="340" y="290" as="geometry" />
         </mxCell>
+        <mxCell id="s2h19QWSeS87sS0DPLyf-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="技术路线一" vertex="1">
+          <mxGeometry height="60" width="120" x="190" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="s2h19QWSeS87sS0DPLyf-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="技术路线二" vertex="1">
+          <mxGeometry height="60" width="120" x="470" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="s2h19QWSeS87sS0DPLyf-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="pos机产品" vertex="1">
+          <mxGeometry height="60" width="120" x="630" y="390" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
