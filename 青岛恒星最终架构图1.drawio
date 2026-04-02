@@ -750,7 +750,7 @@
           <mxGeometry height="30" width="60" x="913" y="425.55999999999995" as="geometry" />
         </mxCell>
         <mxCell id="cxsHvIbHgzUJmHbLtvgz-6" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="37.22" width="120" x="885" y="462.78" as="geometry" />
+          <mxGeometry height="37.22" width="120" x="885" y="481.95" as="geometry" />
         </mxCell>
         <mxCell id="cxsHvIbHgzUJmHbLtvgz-2" parent="cxsHvIbHgzUJmHbLtvgz-6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6F6FF;strokeColor=#2668BE;gradientColor=none;glass=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="37.22" width="120" as="geometry" />
@@ -775,6 +775,12 @@
         </mxCell>
         <mxCell id="cxsHvIbHgzUJmHbLtvgz-11" parent="cxsHvIbHgzUJmHbLtvgz-9" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;学校在支付宝微信开通的商户&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="125" x="-5" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cxsHvIbHgzUJmHbLtvgz-15" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#A7C0C4;strokeColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="725" y="500.92" as="sourcePoint" />
+            <mxPoint x="880" y="500.19" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
