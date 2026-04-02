@@ -787,7 +787,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cxsHvIbHgzUJmHbLtvgz-23" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="60" width="280" x="5" y="930" as="geometry" />
+          <mxGeometry height="60" width="280" x="90" y="933.61" as="geometry" />
         </mxCell>
         <mxCell id="cxsHvIbHgzUJmHbLtvgz-24" parent="cxsHvIbHgzUJmHbLtvgz-23" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6F6FF;strokeColor=#2668BE;gradientColor=none;glass=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="60" width="280" as="geometry" />
@@ -881,6 +881,17 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="970" y="1140" as="sourcePoint" />
             <mxPoint x="1303" y="1345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cxsHvIbHgzUJmHbLtvgz-57" edge="1" parent="1" source="cxsHvIbHgzUJmHbLtvgz-24" style="&lt;mxCell id=&quot;arrow1&quot; style=&quot;endArrow=classic;html=1;curved=0;strokeColor=#666666;strokeWidth=2;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;2&quot; target=&quot;3&quot;&gt;&#xa;  &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&#xa;&lt;/mxCell&gt;;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="490" y="1146" as="sourcePoint" />
+            <mxPoint x="590" y="964" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cxsHvIbHgzUJmHbLtvgz-58" connectable="0" parent="cxsHvIbHgzUJmHbLtvgz-57" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="模式一" vertex="1">
+          <mxGeometry relative="1" x="-0.0139" y="6" as="geometry">
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
