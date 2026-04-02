@@ -858,13 +858,13 @@
           <mxGeometry height="30" width="150" x="10" y="5" as="geometry" />
         </mxCell>
         <mxCell id="cxsHvIbHgzUJmHbLtvgz-111" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="50" width="130" x="-210" y="560" as="geometry" />
+          <mxGeometry height="80" width="50" x="-270" y="140" as="geometry" />
         </mxCell>
         <mxCell id="cxsHvIbHgzUJmHbLtvgz-112" parent="cxsHvIbHgzUJmHbLtvgz-111" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6F6FF;strokeColor=#2668BE;gradientColor=none;glass=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
-          <mxGeometry height="50" width="130.00000000000003" as="geometry" />
+          <mxGeometry height="80" width="50.000000000000014" as="geometry" />
         </mxCell>
         <mxCell id="cxsHvIbHgzUJmHbLtvgz-113" parent="cxsHvIbHgzUJmHbLtvgz-111" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;支付宝&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="25" width="49.09411764705883" x="40.452941176470624" y="12.5" as="geometry" />
+          <mxGeometry height="40" width="18.882352941176475" x="15.558823529411779" y="20" as="geometry" />
         </mxCell>
         <mxCell id="H9VcALEGFzHSBDgVT_bT-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6F6FF;strokeColor=#2668BE;gradientColor=none;glass=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="60" width="190" x="280" y="387.22" as="geometry" />
