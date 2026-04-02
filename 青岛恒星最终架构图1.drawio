@@ -929,7 +929,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cxsHvIbHgzUJmHbLtvgz-81" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="50" width="170" x="-390" y="400" as="geometry" />
+          <mxGeometry height="60" width="280" x="-390" y="400" as="geometry" />
         </mxCell>
         <mxCell id="cxsHvIbHgzUJmHbLtvgz-77" parent="cxsHvIbHgzUJmHbLtvgz-81" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6F8E6;gradientColor=none;strokeColor=#61C961;" value="" vertex="1">
           <mxGeometry height="50" width="170" as="geometry" />
@@ -972,6 +972,12 @@
         </mxCell>
         <mxCell id="cxsHvIbHgzUJmHbLtvgz-91" parent="cxsHvIbHgzUJmHbLtvgz-89" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;支付宝设备及平台&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="130" x="10" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="cxsHvIbHgzUJmHbLtvgz-93" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6F6FF;strokeColor=#2668BE;gradientColor=none;glass=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="50" width="170" x="-380" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="cxsHvIbHgzUJmHbLtvgz-94" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;支付宝&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="25" width="118.39285714285714" x="-354.2" y="522.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
