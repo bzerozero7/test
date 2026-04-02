@@ -756,6 +756,11 @@
             <mxPoint x="585" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="cxsHvIbHgzUJmHbLtvgz-122" connectable="0" parent="cxsHvIbHgzUJmHbLtvgz-31" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="消费补贴" vertex="1">
+          <mxGeometry relative="1" x="0.0828" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cxsHvIbHgzUJmHbLtvgz-32" edge="1" parent="1" source="cxsHvIbHgzUJmHbLtvgz-24" style="&lt;mxCell id=&quot;arrow1&quot; style=&quot;endArrow=classic;html=1;curved=0;strokeColor=#666666;strokeWidth=2;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;2&quot; target=&quot;3&quot;&gt;&#xa;  &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&#xa;&lt;/mxCell&gt;;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="cxsHvIbHgzUJmHbLtvgz-29" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="770" y="630" as="sourcePoint" />
