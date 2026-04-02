@@ -685,7 +685,7 @@
           <mxGeometry height="50" width="50" x="15" y="5" as="geometry" />
         </mxCell>
         <mxCell id="H9VcALEGFzHSBDgVT_bT-9" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="60" width="280" x="125" y="440" as="geometry" />
+          <mxGeometry height="60" width="280" x="20" y="448.61" as="geometry" />
         </mxCell>
         <mxCell id="H9VcALEGFzHSBDgVT_bT-4" parent="H9VcALEGFzHSBDgVT_bT-9" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6F6FF;strokeColor=#2668BE;gradientColor=none;glass=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="60" width="280" as="geometry" />
@@ -744,7 +744,7 @@
           <mxGeometry height="72.61" width="242" x="-210" y="150" as="geometry" />
         </mxCell>
         <mxCell id="H9VcALEGFzHSBDgVT_bT-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6F6FF;strokeColor=#2668BE;gradientColor=none;glass=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
-          <mxGeometry height="150" width="290" x="500" y="420" as="geometry" />
+          <mxGeometry height="150" width="170" x="560" y="420" as="geometry" />
         </mxCell>
         <mxCell id="H9VcALEGFzHSBDgVT_bT-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;学校&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="613" y="422.78" as="geometry" />
