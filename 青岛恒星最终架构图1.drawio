@@ -679,7 +679,7 @@
           <mxGeometry height="30" width="60" x="573" y="405.55999999999995" as="geometry" />
         </mxCell>
         <mxCell id="H9VcALEGFzHSBDgVT_bT-8" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="60" width="280" x="210" y="230" as="geometry" />
+          <mxGeometry height="60" width="280" x="190" y="248.61" as="geometry" />
         </mxCell>
         <mxCell id="oUc0hqiLWvCIEZCVe2NN-1" parent="H9VcALEGFzHSBDgVT_bT-8" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6F6FF;strokeColor=#2668BE;gradientColor=none;glass=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="60" width="280" as="geometry" />
@@ -699,12 +699,6 @@
         <mxCell id="H9VcALEGFzHSBDgVT_bT-5" parent="H9VcALEGFzHSBDgVT_bT-9" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;学生POS机消费&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="195" x="70" y="15" as="geometry" />
         </mxCell>
-        <mxCell id="OgG7wHZqdtbBd8cLHcMC-1" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#DBEBFA;strokeColor=default;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="290" y="509.65999999999997" as="sourcePoint" />
-            <mxPoint x="420" y="509.65999999999997" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="OgG7wHZqdtbBd8cLHcMC-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6F6FF;strokeColor=#2668BE;gradientColor=none;glass=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="147.22" width="170" x="580" y="210" as="geometry" />
         </mxCell>
@@ -716,6 +710,12 @@
         </mxCell>
         <mxCell id="OgG7wHZqdtbBd8cLHcMC-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;对公账户&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="635" y="263.61" as="geometry" />
+        </mxCell>
+        <mxCell id="OgG7wHZqdtbBd8cLHcMC-1" edge="1" parent="1" source="oUc0hqiLWvCIEZCVe2NN-1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#DBEBFA;strokeColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="475" y="278.27" as="sourcePoint" />
+            <mxPoint x="605" y="278.27" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
