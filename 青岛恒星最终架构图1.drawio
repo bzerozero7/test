@@ -717,6 +717,12 @@
             <mxPoint x="605" y="278.27" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OgG7wHZqdtbBd8cLHcMC-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6F6FF;strokeColor=#2668BE;gradientColor=none;glass=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="147.22" width="170" x="850" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="OgG7wHZqdtbBd8cLHcMC-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;亿惠通&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="905" y="218.61" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
