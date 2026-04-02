@@ -950,10 +950,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cxsHvIbHgzUJmHbLtvgz-115" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6F8E6;gradientColor=none;strokeColor=#61C961;" value="" vertex="1">
-          <mxGeometry height="160" width="70" x="-440" y="230" as="geometry" />
+          <mxGeometry height="120" width="50" x="-429.99" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="cxsHvIbHgzUJmHbLtvgz-116" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;亿惠通&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="54.70588235294118" x="-214.85294117647058" y="262.44000000000005" as="geometry" />
+        <mxCell id="cxsHvIbHgzUJmHbLtvgz-116" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;亿&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;惠&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;通&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="57.56" width="34.85" x="-422.41999999999996" y="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
