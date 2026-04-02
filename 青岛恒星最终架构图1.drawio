@@ -672,6 +672,9 @@
         <mxCell id="XiM4Qja0pjEAEpuQZP2t-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="学生消费" vertex="1">
           <mxGeometry height="30" width="60" x="145" y="405.56" as="geometry" />
         </mxCell>
+        <mxCell id="XiM4Qja0pjEAEpuQZP2t-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;支付宝激励金&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="110" y="510" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
