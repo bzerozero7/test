@@ -678,6 +678,9 @@
         <mxCell id="XiM4Qja0pjEAEpuQZP2t-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="支付宝活动/激励" vertex="1">
           <mxGeometry height="30" width="115" x="117.5" y="530" as="geometry" />
         </mxCell>
+        <mxCell id="XiM4Qja0pjEAEpuQZP2t-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;付费硬件销售&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="117.5" y="630" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
