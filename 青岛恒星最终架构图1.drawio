@@ -678,6 +678,9 @@
         <mxCell id="XiM4Qja0pjEAEpuQZP2t-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;付费软件模块 / 软件包&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="160" x="110" y="777.78" as="geometry" />
         </mxCell>
+        <mxCell id="oUc0hqiLWvCIEZCVe2NN-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6F6FF;strokeColor=#2668BE;gradientColor=none;glass=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;收入来源&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="225" x="37.5" y="280" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
