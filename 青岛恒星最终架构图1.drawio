@@ -889,7 +889,7 @@
             <mxPoint x="590" y="964" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cxsHvIbHgzUJmHbLtvgz-58" connectable="0" parent="cxsHvIbHgzUJmHbLtvgz-57" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="模式一" vertex="1">
+        <mxCell id="cxsHvIbHgzUJmHbLtvgz-58" connectable="0" parent="cxsHvIbHgzUJmHbLtvgz-57" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="模式二" vertex="1">
           <mxGeometry relative="1" x="-0.0139" y="6" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
