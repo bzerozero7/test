@@ -830,7 +830,7 @@
             <mxPoint x="875" y="861.16" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cxsHvIbHgzUJmHbLtvgz-75" connectable="0" parent="cxsHvIbHgzUJmHbLtvgz-74" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="需分部分管理费" vertex="1">
+        <mxCell id="cxsHvIbHgzUJmHbLtvgz-75" connectable="0" parent="cxsHvIbHgzUJmHbLtvgz-74" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="需分管理费" vertex="1">
           <mxGeometry relative="1" x="-0.0139" y="6" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
