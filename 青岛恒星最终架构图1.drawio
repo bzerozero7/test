@@ -857,15 +857,6 @@
         <mxCell id="cxsHvIbHgzUJmHbLtvgz-46" parent="cxsHvIbHgzUJmHbLtvgz-42" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;对公账户&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="55" y="55" as="geometry" />
         </mxCell>
-        <mxCell id="cxsHvIbHgzUJmHbLtvgz-47" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="147.22000000000003" width="170" x="840" y="1100" as="geometry" />
-        </mxCell>
-        <mxCell id="cxsHvIbHgzUJmHbLtvgz-48" parent="cxsHvIbHgzUJmHbLtvgz-47" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6F6FF;strokeColor=#2668BE;gradientColor=none;glass=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
-          <mxGeometry height="147.22" width="170" as="geometry" />
-        </mxCell>
-        <mxCell id="cxsHvIbHgzUJmHbLtvgz-49" parent="cxsHvIbHgzUJmHbLtvgz-47" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;服务商&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="53" y="10" as="geometry" />
-        </mxCell>
         <mxCell id="cxsHvIbHgzUJmHbLtvgz-52" edge="1" parent="1" source="cxsHvIbHgzUJmHbLtvgz-24" style="&lt;mxCell id=&quot;arrow1&quot; style=&quot;endArrow=classic;html=1;curved=0;strokeColor=#666666;strokeWidth=2;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;2&quot; target=&quot;3&quot;&gt;&#xa;  &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&#xa;&lt;/mxCell&gt;;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="cxsHvIbHgzUJmHbLtvgz-45" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="480" y="1262" as="sourcePoint" />
@@ -876,6 +867,15 @@
           <mxGeometry relative="1" x="-0.0139" y="6" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cxsHvIbHgzUJmHbLtvgz-54" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="50" width="110" x="863" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="cxsHvIbHgzUJmHbLtvgz-48" parent="cxsHvIbHgzUJmHbLtvgz-54" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6F6FF;strokeColor=#2668BE;gradientColor=none;glass=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="50" width="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cxsHvIbHgzUJmHbLtvgz-49" parent="cxsHvIbHgzUJmHbLtvgz-54" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;服务商&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="10.188833038989266" width="60" x="25" y="19.905583480505356" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
