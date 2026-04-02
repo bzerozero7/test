@@ -711,6 +711,12 @@
         <mxCell id="OgG7wHZqdtbBd8cLHcMC-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;服务商&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="633" y="220" as="geometry" />
         </mxCell>
+        <mxCell id="OgG7wHZqdtbBd8cLHcMC-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6F6FF;strokeColor=#2668BE;gradientColor=none;glass=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="37.22" width="120" x="605" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="OgG7wHZqdtbBd8cLHcMC-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;对公账户&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="635" y="263.61" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
