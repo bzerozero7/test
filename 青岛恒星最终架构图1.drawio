@@ -684,6 +684,12 @@
         <mxCell id="XiM4Qja0pjEAEpuQZP2t-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="非BOT设备硬件" vertex="1">
           <mxGeometry height="30" width="115" x="125" y="660" as="geometry" />
         </mxCell>
+        <mxCell id="XiM4Qja0pjEAEpuQZP2t-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="支付宝活动/激励" vertex="1">
+          <mxGeometry height="30" width="115" x="380" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="XiM4Qja0pjEAEpuQZP2t-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;付费软件模块 / 软件包&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="160" x="110" y="760" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
