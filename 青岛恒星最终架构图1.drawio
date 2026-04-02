@@ -650,7 +650,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="b52ww2DuKlmTqNRJlBJY" name="SaaS平台资金流图">
-    <mxGraphModel dx="1398" dy="306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2026" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -901,6 +901,11 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="725" y="278.7548077706834" as="sourcePoint" />
             <mxPoint x="890" y="278.40446950142643" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cxsHvIbHgzUJmHbLtvgz-123" connectable="0" parent="cxsHvIbHgzUJmHbLtvgz-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="部分分成" vertex="1">
+          <mxGeometry relative="1" x="-0.0263" y="-1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cxsHvIbHgzUJmHbLtvgz-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;服务商&lt;/b&gt;&lt;/span&gt;" vertex="1">
