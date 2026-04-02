@@ -650,7 +650,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="b52ww2DuKlmTqNRJlBJY" name="SaaS平台资金流图">
-    <mxGraphModel dx="1683" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1327" dy="268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -857,15 +857,6 @@
         <mxCell id="cxsHvIbHgzUJmHbLtvgz-107" parent="cxsHvIbHgzUJmHbLtvgz-105" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;付费软件模块 / 软件包&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="150" x="10" y="5" as="geometry" />
         </mxCell>
-        <mxCell id="cxsHvIbHgzUJmHbLtvgz-108" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="40" width="150" x="-400" y="420" as="geometry" />
-        </mxCell>
-        <mxCell id="cxsHvIbHgzUJmHbLtvgz-109" parent="cxsHvIbHgzUJmHbLtvgz-108" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D8F3D8;strokeColor=#61C961;" value="" vertex="1">
-          <mxGeometry height="40" width="150" as="geometry" />
-        </mxCell>
-        <mxCell id="cxsHvIbHgzUJmHbLtvgz-110" parent="cxsHvIbHgzUJmHbLtvgz-108" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;支付宝设备及平台&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="130" x="10" y="5" as="geometry" />
-        </mxCell>
         <mxCell id="cxsHvIbHgzUJmHbLtvgz-111" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="50" width="130" x="-210" y="560" as="geometry" />
         </mxCell>
@@ -950,10 +941,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cxsHvIbHgzUJmHbLtvgz-115" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6F8E6;gradientColor=none;strokeColor=#61C961;" value="" vertex="1">
-          <mxGeometry height="120" width="50" x="-429.99" y="240" as="geometry" />
+          <mxGeometry height="120" width="50" x="-270" y="100" as="geometry" />
         </mxCell>
         <mxCell id="cxsHvIbHgzUJmHbLtvgz-116" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;亿&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;惠&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;通&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="57.56" width="34.85" x="-422.41999999999996" y="270" as="geometry" />
+          <mxGeometry height="57.56" width="34.85" x="-262.42999999999995" y="131.22" as="geometry" />
+        </mxCell>
+        <mxCell id="cxsHvIbHgzUJmHbLtvgz-109" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D8F3D8;strokeColor=#61C961;" value="" vertex="1">
+          <mxGeometry height="160" width="50" x="-270" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="cxsHvIbHgzUJmHbLtvgz-110" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;支&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;付&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;宝&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;设&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;备&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;及&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;平&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;台&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="143.57" width="25.34" x="-257.66999999999996" y="226.43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
