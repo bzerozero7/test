@@ -650,7 +650,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="b52ww2DuKlmTqNRJlBJY" name="SaaS平台资金流图">
-    <mxGraphModel dx="1512" dy="367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2238" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -748,6 +748,9 @@
         </mxCell>
         <mxCell id="H9VcALEGFzHSBDgVT_bT-7" parent="-i3Lbv0_uCSjVlLj3S36-12" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;学校&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="113" y="2.7799999999999727" as="geometry" />
+        </mxCell>
+        <mxCell id="cxsHvIbHgzUJmHbLtvgz-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2D6E8;strokeColor=#401646;" value="&lt;span style=&quot;font-size: 20px; text-align: left;&quot;&gt;到账状态标识&lt;/span&gt;" vertex="1">
+          <mxGeometry height="72.61" width="242" x="-242" y="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
