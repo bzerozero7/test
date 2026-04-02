@@ -701,9 +701,15 @@
         </mxCell>
         <mxCell id="OgG7wHZqdtbBd8cLHcMC-1" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#DBEBFA;strokeColor=default;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="320" y="550" as="sourcePoint" />
-            <mxPoint x="450" y="550" as="targetPoint" />
+            <mxPoint x="290" y="509.65999999999997" as="sourcePoint" />
+            <mxPoint x="420" y="509.65999999999997" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OgG7wHZqdtbBd8cLHcMC-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6F6FF;strokeColor=#2668BE;gradientColor=none;glass=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="147.22" width="170" x="580" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="OgG7wHZqdtbBd8cLHcMC-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;服务商&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="633" y="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
