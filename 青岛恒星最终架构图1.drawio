@@ -970,7 +970,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2d1ow8xEA7FBYx0PXItS-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E2D6E8;strokeColor=#2668BE;gradientColor=none;glass=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+        <mxCell id="2d1ow8xEA7FBYx0PXItS-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6F8E6;strokeColor=#2668BE;gradientColor=none;glass=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="90" width="170" x="1140" y="510" as="geometry" />
         </mxCell>
         <mxCell id="2d1ow8xEA7FBYx0PXItS-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;亿惠通&lt;/b&gt;&lt;/span&gt;" vertex="1">
