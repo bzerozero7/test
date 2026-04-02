@@ -830,15 +830,6 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cxsHvIbHgzUJmHbLtvgz-99" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="40" width="150" x="-250" y="420" as="geometry" />
-        </mxCell>
-        <mxCell id="cxsHvIbHgzUJmHbLtvgz-100" parent="cxsHvIbHgzUJmHbLtvgz-99" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D8F3D8;strokeColor=#61C961;" value="" vertex="1">
-          <mxGeometry height="40" width="150" as="geometry" />
-        </mxCell>
-        <mxCell id="cxsHvIbHgzUJmHbLtvgz-101" parent="cxsHvIbHgzUJmHbLtvgz-99" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;BOT设备及平台&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="130" x="10" y="5" as="geometry" />
-        </mxCell>
         <mxCell id="cxsHvIbHgzUJmHbLtvgz-102" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="40" width="90" x="-100" y="420" as="geometry" />
         </mxCell>
@@ -954,6 +945,12 @@
         </mxCell>
         <mxCell id="cxsHvIbHgzUJmHbLtvgz-116" parent="cxsHvIbHgzUJmHbLtvgz-119" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;亿&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;惠&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;通&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="57.56" width="34.85" x="7.57000000000005" y="31.22" as="geometry" />
+        </mxCell>
+        <mxCell id="cxsHvIbHgzUJmHbLtvgz-100" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D8F3D8;strokeColor=#61C961;" value="" vertex="1">
+          <mxGeometry height="170" width="50" x="-270" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="cxsHvIbHgzUJmHbLtvgz-101" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;B&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;O&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;T&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;设&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;备&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;及&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;平&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;台&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="155" width="30" x="-260" y="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
