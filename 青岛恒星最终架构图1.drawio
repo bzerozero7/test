@@ -672,12 +672,6 @@
         <mxCell id="XiM4Qja0pjEAEpuQZP2t-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;付费软件模块 / 软件包&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="160" x="110" y="777.78" as="geometry" />
         </mxCell>
-        <mxCell id="H9VcALEGFzHSBDgVT_bT-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6F6FF;strokeColor=#2668BE;gradientColor=none;glass=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
-          <mxGeometry height="237.22" width="290" x="460" y="402.78" as="geometry" />
-        </mxCell>
-        <mxCell id="H9VcALEGFzHSBDgVT_bT-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;学校&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="573" y="405.55999999999995" as="geometry" />
-        </mxCell>
         <mxCell id="H9VcALEGFzHSBDgVT_bT-8" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="60" width="280" x="190" y="248.61" as="geometry" />
         </mxCell>
@@ -745,6 +739,15 @@
           <mxGeometry relative="1" x="-0.1251" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-i3Lbv0_uCSjVlLj3S36-12" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="237.22000000000003" width="290" x="500" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="H9VcALEGFzHSBDgVT_bT-6" parent="-i3Lbv0_uCSjVlLj3S36-12" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6F6FF;strokeColor=#2668BE;gradientColor=none;glass=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="237.22" width="290" as="geometry" />
+        </mxCell>
+        <mxCell id="H9VcALEGFzHSBDgVT_bT-7" parent="-i3Lbv0_uCSjVlLj3S36-12" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;学校&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="113" y="2.7799999999999727" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
