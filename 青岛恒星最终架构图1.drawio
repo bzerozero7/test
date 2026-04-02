@@ -711,7 +711,7 @@
         <mxCell id="OgG7wHZqdtbBd8cLHcMC-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;对公账户&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="635" y="263.61" as="geometry" />
         </mxCell>
-        <mxCell id="OgG7wHZqdtbBd8cLHcMC-1" edge="1" parent="1" source="oUc0hqiLWvCIEZCVe2NN-1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#DBEBFA;strokeColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+        <mxCell id="OgG7wHZqdtbBd8cLHcMC-1" edge="1" parent="1" source="oUc0hqiLWvCIEZCVe2NN-1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#A7C0C4;strokeColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="475" y="278.27" as="sourcePoint" />
             <mxPoint x="605" y="278.27" as="targetPoint" />
