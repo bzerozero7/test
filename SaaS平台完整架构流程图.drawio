@@ -95,9 +95,6 @@
         <mxCell id="v_suxo9vPzTTBFSwHeTr-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;学号/身份证号&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="140" x="450" y="426.5" as="geometry" />
         </mxCell>
-        <mxCell id="v_suxo9vPzTTBFSwHeTr-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;通行/充值/消费/使用&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="184.53" x="1020" y="740" as="geometry" />
-        </mxCell>
         <mxCell id="v_suxo9vPzTTBFSwHeTr-31" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="100" width="140" x="670" y="730" as="geometry" />
         </mxCell>
