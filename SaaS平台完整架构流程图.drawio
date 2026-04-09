@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zQl8wTemg5507DD6Es1y-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="635" width="1310" x="120" y="730" as="geometry" />
+        </mxCell>
         <mxCell id="zQl8wTemg5507DD6Es1y-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
           <mxGeometry height="430" width="1060" x="210" y="260" as="geometry" />
         </mxCell>
@@ -36,8 +39,8 @@
         <mxCell id="v_suxo9vPzTTBFSwHeTr-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;线上报道&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="140" x="250" y="283.5" as="geometry" />
         </mxCell>
-        <mxCell id="v_suxo9vPzTTBFSwHeTr-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;到校后&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="140" x="260" y="700" as="geometry" />
+        <mxCell id="v_suxo9vPzTTBFSwHeTr-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;校内生活&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="150" y="740" as="geometry" />
         </mxCell>
         <mxCell id="v_suxo9vPzTTBFSwHeTr-10" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="100" width="110" x="1070" y="456.5" as="geometry" />
