@@ -642,7 +642,7 @@
           <mxGeometry height="60" width="120" x="571.01" y="380" as="geometry" />
         </mxCell>
         <mxCell id="vpVkDYUXkOqesTKInryw-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;通道闸机&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="590" y="670" as="geometry" />
+          <mxGeometry height="30" width="60" x="560" y="660" as="geometry" />
         </mxCell>
         <mxCell id="vpVkDYUXkOqesTKInryw-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;消费机&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="200.70999999999998" y="660" as="geometry" />
