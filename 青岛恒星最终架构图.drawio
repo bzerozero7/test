@@ -671,18 +671,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="N66BweXhPb68O974sIgD" name="平台架构图">
-    <mxGraphModel dx="2638" dy="1429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1826" dy="989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZlY1WN3IauLC1GUf-es--1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="1220.63" width="1411" x="149" y="669.37" as="geometry" />
+        </mxCell>
         <mxCell id="ZlY1WN3IauLC1GUf-es--107" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#F8D2B0;" value="" vertex="1">
           <mxGeometry height="190" width="1402" x="152" y="1460" as="geometry" />
         </mxCell>
         <mxCell id="ZlY1WN3IauLC1GUf-es--11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#61C961;" value="" vertex="1">
           <mxGeometry height="295.56" width="1402" x="152" y="1122.5" as="geometry" />
-        </mxCell>
-        <mxCell id="ZlY1WN3IauLC1GUf-es--1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" value="" vertex="1">
-          <mxGeometry height="1730" width="1470" x="2140" y="490" as="geometry" />
         </mxCell>
         <mxCell id="ZlY1WN3IauLC1GUf-es--2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D8F3D8;glass=0;shadow=0;opacity=80;perimeterSpacing=0;strokeColor=#61C961;" value="" vertex="1">
           <mxGeometry height="265.7" width="1279" x="255" y="1141.31" as="geometry" />
