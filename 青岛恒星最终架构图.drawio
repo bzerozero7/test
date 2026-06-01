@@ -671,7 +671,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="N66BweXhPb68O974sIgD" name="平台架构图">
-    <mxGraphModel dx="1187" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2158" dy="1169" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -711,7 +711,7 @@
         <mxCell id="ZlY1WN3IauLC1GUf-es--12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#401646;fillColor=none;" value="" vertex="1">
           <mxGeometry height="450" width="1402" x="152" y="1684" as="geometry" />
         </mxCell>
-        <mxCell id="ZlY1WN3IauLC1GUf-es--13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1F4E79;strokeColor=none;gradientColor=none;gradientDirection=radial;" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 43px;&quot;&gt;恒星集团统一收款平台&lt;/span&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="ZlY1WN3IauLC1GUf-es--13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1F4E79;strokeColor=none;gradientColor=none;gradientDirection=radial;" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 43px;&quot;&gt;一户通校园数字化统一体系&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="70" width="1682" x="152" y="450" as="geometry" />
         </mxCell>
         <mxCell id="ZlY1WN3IauLC1GUf-es--14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6F6FF;strokeColor=#2668BE;" value="&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;集&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;团&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;支&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;付&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;入&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;口&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;与&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;消&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;费&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
