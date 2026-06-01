@@ -671,7 +671,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="N66BweXhPb68O974sIgD" name="平台架构图">
-    <mxGraphModel dx="1130" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2158" dy="1169" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -707,12 +707,6 @@
         </mxCell>
         <mxCell id="ZlY1WN3IauLC1GUf-es--23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6F8E6;strokeColor=#61C961;" value="" vertex="1">
           <mxGeometry height="180" width="229" x="281" y="1184.16" as="geometry" />
-        </mxCell>
-        <mxCell id="ZlY1WN3IauLC1GUf-es--26" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.562;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#DBEBFA;strokeColor=default;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1100.2600000000002" y="1097.5" as="sourcePoint" />
-            <mxPoint x="1100" y="1138" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="ZlY1WN3IauLC1GUf-es--27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D8F3D8;strokeColor=#61C961;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;统&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;一&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;能&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;力&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;层&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="295.56" width="80" x="152" y="1122.5" as="geometry" />
@@ -820,12 +814,6 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1097" y="1678" as="sourcePoint" />
             <mxPoint x="1097" y="1636" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZlY1WN3IauLC1GUf-es--141" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.562;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#DBEBFA;strokeColor=default;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="557.2600000000002" y="1098" as="sourcePoint" />
-            <mxPoint x="557" y="1138.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZlY1WN3IauLC1GUf-es--142" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.562;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#80B4FA;strokeColor=none;flowAnimation=0;shadow=0;fillStyle=auto;gradientColor=#FFFFFF;gradientDirection=south;" value="">
