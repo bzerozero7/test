@@ -828,9 +828,6 @@
             <mxPoint x="1097" y="1636" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZlY1WN3IauLC1GUf-es--140" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;支付数据同步&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="130" x="717" y="1646" as="geometry" />
-        </mxCell>
         <mxCell id="ZlY1WN3IauLC1GUf-es--141" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.562;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#DBEBFA;strokeColor=default;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="557.2600000000002" y="1098" as="sourcePoint" />
