@@ -149,9 +149,6 @@
         <mxCell id="v_suxo9vPzTTBFSwHeTr-46" parent="v_suxo9vPzTTBFSwHeTr-44" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;洗衣机&lt;/span&gt;" vertex="1">
           <mxGeometry height="17.27142857142857" width="100" y="63.32857142857142" as="geometry" />
         </mxCell>
-        <mxCell id="v_suxo9vPzTTBFSwHeTr-63" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;智慧教室&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="140" x="810" y="890" as="geometry" />
-        </mxCell>
         <mxCell id="v_suxo9vPzTTBFSwHeTr-64" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="115.16999999999996" width="140" x="270" y="794.9999999999999" as="geometry" />
         </mxCell>
@@ -206,9 +203,6 @@
         <mxCell id="v_suxo9vPzTTBFSwHeTr-89" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;储物柜&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="140" x="970" y="1220" as="geometry" />
         </mxCell>
-        <mxCell id="v_suxo9vPzTTBFSwHeTr-91" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;智慧宿舍&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="140" x="630" y="889.9999999999999" as="geometry" />
-        </mxCell>
         <mxCell id="v_suxo9vPzTTBFSwHeTr-97" edge="1" parent="1" source="v_suxo9vPzTTBFSwHeTr-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#FF9933;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="v_suxo9vPzTTBFSwHeTr-90">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="740" y="840" as="sourcePoint" />
@@ -219,9 +213,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="950" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="v_suxo9vPzTTBFSwHeTr-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;消费场景（BOT）&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="184.53" x="460" y="890" as="geometry" />
         </mxCell>
         <mxCell id="v_suxo9vPzTTBFSwHeTr-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;pos机&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="140" x="190.00000000000003" y="819.9999999999999" as="geometry" />
@@ -302,6 +293,15 @@
           <mxGeometry relative="1" x="0.1562" y="3" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="v_suxo9vPzTTBFSwHeTr-63" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;智慧教室&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="810" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="v_suxo9vPzTTBFSwHeTr-91" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;智慧宿舍&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="630" y="889.9999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="v_suxo9vPzTTBFSwHeTr-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;消费场景（BOT）&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="184.53" x="460" y="890" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
