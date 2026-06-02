@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="第 1 页" id="7xYVMMLLJWXiOuPiSe7D">
-    <mxGraphModel dx="1978" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1249" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -179,8 +179,8 @@
             <mxPoint x="740" y="1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v_suxo9vPzTTBFSwHeTr-74" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;食堂超市&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="140" x="432.26" y="790" as="geometry" />
+        <mxCell id="v_suxo9vPzTTBFSwHeTr-74" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;食堂商超&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="450" y="790" as="geometry" />
         </mxCell>
         <mxCell id="v_suxo9vPzTTBFSwHeTr-77" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="92.98000000000002" width="140" x="1180" y="1030" as="geometry" />
